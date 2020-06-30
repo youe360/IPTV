@@ -188,7 +188,7 @@ TVBS新聞,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 公視,https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
 公視3台,http://usb.bozztv.com/ssh101/PTSTV3HD/PTSTV3HD/playlist.m3u8
 
-衛視#genre#
+衛視,#genre#
 北京紀實 HD,http://112.50.243.8/PLTV/88888888/224/3221225944/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225729/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225756/index.m3u8#http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226730/index.m3u8
 湖南衛視 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000296203.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225827/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226241/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/hnwshd/4000000/mnf.m3u8
 江蘇衛視 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000295603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225847/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225930/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226242/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/jswshd/4000000/mnf.m3u8
@@ -226,7 +226,7 @@ TVBS新聞,http://60.199.188.66/HLS/WG_TVBS-N/01.m3u8
 西藏衛視,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225900/1.m3u8
 內蒙古衛視,http://112.50.243.8/PLTV/88888888/224/3221225846/1.m3u8#http://39.134.65.162/PLTV/88888888/224/3221225577/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225634/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225891/1.m3u8
 
-央視#genre#
+央視,#genre#
 CCTV-1 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000210103.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225829/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225755/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226226/1.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv1hd/4000000/mnf.m3u8
 CCTV-2 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203603.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226230/1.m3u8
 CCTV-3 HD,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000203803.m3u8#http://223.110.243.170//PLTV/3/224/3221225588/index.m3u8#http://112.17.40.8:80/PLTV/88888888/224/3221226485/index.m3u8#http://111.40.205.87/PLTV/88888888/224/3221225754/index.m3u8#http://liveplay-kk.rtxapp.com/live/program/live/cctv3hd/4000000/mnf.m3u8
