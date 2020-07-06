@@ -1,26 +1,32 @@
 香港,#genre#
+有線新聞台HD,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+有線新聞台HD,http://f9.apps1818.com:8080/live/395/a3c458c7b437288c06fd6c875b8608ef/index.m3u8
+有線新聞台HD,http://f9.apps1818.com:8080/live/19/79a6141614f4740057dadb2ad2e14a8a/index.m3u8
+有線綜合娛樂台,http://f9.apps1818.com:8080/live/360/0088f647a76032beb2ad421ffe92fa4f/index.m3u8
+C+頻道,https://ottproxy2.mott.tv/livehls/MOB-U1-NO/03.m3u8
+有線18台,rtmp://xiaoyu.speedws.com/sat/hk041
+Viutv,http://f9.apps1818.com:8080/live/72/e7b4dae981eed4f67e85b94ff37d985b/index.m3u8
+Viutv 6,http://f9.apps1818.com:8080/live/176/f005cad95e5f97850325730597c242d1/index.m3u8
+開電視,http://f9.apps1818.com:8080/live/17/721c07f796c85916f4075277784f7d61/index.m3u8
+開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
+開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+開電視,http://f7.apps8888.com:8880/live/401/a3bf5613870a7b4a42896f8a8aafcb99/index.m3u8
+NOW新聞,http://f9.apps1818.com:8080/live/396/956d2faba673c373a7731ddf1f368777/index.m3u8
+NOW直播,http://f9.apps1818.com:8080/live/400/18d2793e800ead271ec683595b561d30/index.m3u8
+RTHK32,http://f9.apps1818.com:8080/live/397/f907bdc4835a9e27f55f533d5a2055a8/index.m3u8
+RTHK31,http://f9.apps1818.com:8080/live/353/8d262fd3adf08cf0e095dd93a7d451f5/index.m3u8
 TVB翡翠,http://f9.apps1818.com:8080/live/390/5445ac41a547a62b86cce20329b537a7/index.m3u8
 TVB明珠,http://f9.apps1818.com:8080/live/391/acd425b77ec21ac74279603aabbb1460/index.m3u8
 無線新聞,http://f9.apps1818.com:8080/live/394/883ac735dad91c214ae0953514862708/index.m3u8
-有線新聞,http://f9.apps1818.com:8080/live/395/a3c458c7b437288c06fd6c875b8608ef/index.m3u8
-有線新聞備,http://f9.apps1818.com:8080/live/19/79a6141614f4740057dadb2ad2e14a8a/index.m3u8
-Viutv,http://f9.apps1818.com:8080/live/72/e7b4dae981eed4f67e85b94ff37d985b/index.m3u8
 TVBJ5,http://f9.apps1818.com:8080/live/393/f63e2ff278f6cab2ae702ad5580a1003/index.m3u8
 TVBJ2,http://f9.apps1818.com:8080/live/392/7b4122688dbef93ab3bd5341a5c13a28/index.m3u8
-Viutv 6,http://f9.apps1818.com:8080/live/176/f005cad95e5f97850325730597c242d1/index.m3u8
-香港開電視,http://f9.apps1818.com:8080/live/17/721c07f796c85916f4075277784f7d61/index.m3u8
-NOW新聞,http://f9.apps1818.com:8080/live/396/956d2faba673c373a7731ddf1f368777/index.m3u8
-NOW直播,http://f9.apps1818.com:8080/live/400/18d2793e800ead271ec683595b561d30/index.m3u8
 迪士尼香港,http://f9.apps1818.com:8080/live/45/271b901e2217b226f054fa23536a1a04/index.m3u8
 迪士尼少兒,http://f9.apps1818.com:8080/live/30/53c9745c9c1cd6690be849b5747119dd/index.m3u8
 NOW華劇,http://f9.apps1818.com:8080/live/355/e7433befd0bf9e0cd89aabf4eb66140d/index.m3u8
 鳳凰香港,http://f9.apps1818.com:8080/live/358/2faa8c01571baadc71159292f8b7d202/index.m3u8
 鳳凰衛視,http://f9.apps1818.com:8080/live/357/7739ddb04a47c21b09bff68b013b2183/index.m3u8
 鳳凰資訊,http://f9.apps1818.com:8080/live/359/4e878038d3dc40a9025dc7f68acf5379/index.m3u8
-RTHK32,http://f9.apps1818.com:8080/live/397/f907bdc4835a9e27f55f533d5a2055a8/index.m3u8
-RTHK31,http://f9.apps1818.com:8080/live/353/8d262fd3adf08cf0e095dd93a7d451f5/index.m3u8
 Channel V,http://f9.apps1818.com:8080/live/21/709b88c9297feaff13383e20d95c451b/index.m3u8
-HKC娛樂,http://f9.apps1818.com:8080/live/360/0088f647a76032beb2ad421ffe92fa4f/index.m3u8
 HKS,http://f9.apps1818.com:8080/live/399/7f24fb4ad7541c1b3c13b8514142db65/index.m3u8
 澳視澳門,http://f9.apps1818.com:8080/live/23/59658a455e38a762d60089894e5a6bd9/index.m3u8
 澳視葡語,http://f9.apps1818.com:8080/live/24/6e074cfb307d48d41f7bfd95bba3450d/index.m3u8
@@ -32,10 +38,11 @@ TVB經典,http://f9.apps1818.com:8080/live/398/c3921e73b3189971b958dc19c54d2378/
 TVB星河,http://f9.apps1818.com:8080/live/22/b5da7a28076443c010e9b4c233aa6fed/index.m3u8
 18台,http://f9.apps1818.com:8080/live/44/eee037311319adad53284ba3fce346bd/index.m3u8
 TVB翡翠測試,http://f7.apps8888.com:8880/live/1034/3687e8f1c29eccfbd7f73fc32e17d2e1/index.m3u8
-香港開電視測試,http://f7.apps8888.com:8880/live/401/a3bf5613870a7b4a42896f8a8aafcb99/index.m3u8
+
 
 台灣,#genre#
-東森新聞,https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1593610026/ei/yjr8Xp26CZmWkwaBsaLACg/ip/198.255.103.2/id/RaIJ767Bj_M.1/itag/95/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/goi/160/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D136/hls_chunk_host/r1---sn-a5msen76.googlevideo.com/playlist_duration/30/manifest_duration/30/vprv/1/playlist_type/DVR/initcwndbps/4430/mh/zp/mm/44/mn/sn-a5msen76/ms/lva/mv/m/mvi/0/pl/24/dover/11/keepalive/yes/mt/1593588315/sparams/expire
+東森新聞,http://ddbb.228888888.xyz:8081/live/tw106.m3u8
+東森新聞,http://104.250.154.42:8080/ZZ_dongsenxinwen/ZZ_dongsenxinwen.m3u8
 民視,http://ff.apps1818.com:8080/live/26/9db6367caf56e1265bc0b26ca0c81cc4/index.m3u8
 民視,http://ff.apps1818.com:8080/live/336/d81a60510844e9859a203834b2a11cfd/index.m3u8
 華視,http://ff.apps1818.com:8080/live/32/e5696fa7d3de6a0d0ca08e42c6d81e70/index.m3u8
