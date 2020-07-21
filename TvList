@@ -1,14 +1,30 @@
 香港,#genre#
-有線新聞台HD,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-有線新聞台HD,mitv://fccsovh.pvbox.live:18912/5cb870e80007bd8518bd664dc725ad75.ts
-有線綜合娛樂台,https://ottproxy2.mott.tv/livehls/MOB-CN/index.m3u8
-有線財經資訊台,https://ottproxy2.mott.tv/livehls/MOB-NGW/01.m3u8
-C+頻道,https://ottproxy2.mott.tv/livehls/MOB-U1-NO/03.m3u8
-有線電影台,http://play.nettv.li/mytv/tw/twfftv.php?id=yxdy&path=fxg&token=2efb7b12bf35abcdd7b3fe69dc3ac7dd&t=1592092130&ip=172.247.246.67&u=123456
-有線18台,rtmp://xiaoyu.speedws.com/sat/hk041
+有線新聞台HD,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有線新聞台HD,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+有線新聞台HD,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
+有線新聞台HD,http://liveicm2.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-1.m3u8
+有線綜合娛樂台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+有線綜合娛樂台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+有線綜合娛樂台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-2.m3u8
+有線綜合娛樂台,http://liveicm2.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-1.m3u8
+有線財經資訊台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+有線財經資訊台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
+有線財經資訊台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-2.m3u8
+有線財經資訊台,http://liveicm2.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-1.m3u8
+C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
+C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
+C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/01.m3u8
+C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/04.m3u8
+C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/02.m3u8
+賽馬直擊,http://liveicm2.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f.m3u8
+賽馬直擊,http://liveicm2.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-3.m3u8
+賽馬直擊,http://liveicm2.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-2.m3u8
+賽馬直擊,http://liveicm2.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-1.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-奇妙電視,mitv://198.255.74.57:12196/5f0601f0000dfadeb97950d98d4a4b5b.ts
+開電視,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEdWJsaXZlJTIzaWQlM0QxNw__
+香港綜合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
+香港經典,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEeW91a3UlMjNpZCUzRDgwMTkzMjQ_
 Now新聞台,http://103.140.229.13/xg/wintvh.php?id=16
 Now新聞台,http://raj425ik89.m.awhost.cn/00/now.php?id=1
 Now直播台,p2p://fccseuro.pvbox.live:18912/5b20e3ae00008df9e0a235f3dbd73ea4.ts
@@ -31,18 +47,8 @@ RTHK 32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 RTHK 32,http://teslagram.com/live/channel_32.m3u8
 RTHK 32,http://live.zbjh.cc/live/ws103.m3u8
-無線新聞台,http://seb.sason.top:80/ptv/tvb.php?id=xw
-無線新聞台,http://185.93.2.35:12012/live/359111068247FFA1/Hs5g0TNpX9aohdoghG2Zccp2HcHPShDHWibTNca6_QSML_biuhXpr45XcmRgtPG4/2A32300E446D4B4A/691033.ts
-無線新聞台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_inews.smil/playlist.m3u8?hdnea=st=1590482752~exp=1590569152~acl=/newslive/smil:mobilehd_inews.smil/*~hmac=b83f1366896ee59cb615c3aab79d952963a8f01d165351254ca4e1742e514a6d
-無線新聞台,http://ldtv.5ay.xyz/daili/tvb.php?id=inews?is_hd
-無線新聞台,http://danielwu.gz01.bdysite.com/IX83SH/wxxw.php
 無線新聞台,http://45.93.217.106/jiuban/hg.php?id=1
-無線新聞台,mitv://fccseuro.pvbox.live:18912/5dbeb1c40003f9a457dd11d6cb7a10d0.ts
-無綫財經資訊台,mitv://fccseuro.pvbox.live:18912/5dbeb1cc0007501623a21bd1ab71921c.ts
-無綫財經資訊台,http://prdsecurelive.ainemo.com/live/225cjcj.flv
-無綫財經資訊台,http://ldtv.5ay.xyz/daili/tvb.php?id=j5_ch85?is_hd
-無綫財經資訊台,http://185.93.2.35:12012/live/359111068247FFA1/mVjpHrV2i4StKswinHRnbDF9b1UVwVC7aPqv56Jtoa7jyXfBk9Ha9DuERScnA9A_/18DE4427EB374AB9/233691.ts
-無綫財經資訊台,http://seb.sason.top:80/ptv/tvb.php?id=cj
+無線新聞台,http://111.229.73.84/dl/xg235.php?id=9&xl=2
 無綫財經資訊台,http://45.93.217.106/jiuban/hg.php?id=2
 奧林匹克頻道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 翡翠台,mitv://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
@@ -69,15 +75,6 @@ TVB警匪台,http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
 耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
 ATV亞洲電視台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-香港衛視,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
-香港衛視,https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo.m3u8
-香港衛視,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
-HKS,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-亞旅衛視,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
-環球電視標清,http://otv-cdn.xzxwhcb.com/hls/sn88wrar.m3u8
-香港文旅標清,https://myun-hw-s3.myun.tv/melj80jz/lxx27bol/1551285536499984128.m3u8
 澳視澳門,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳視澳門,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳視澳門,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
@@ -510,7 +507,7 @@ NAT GEO,http://185.93.2.35:12012/live/359111068247FFA1/KQvrQq7HAjlzjUEW78PsFTeg3
 新疆衛視,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 新疆衛視,http://112.50.243.8/PLTV/88888888/224/3221225852/1.m3u8#http://223.110.243.136:80/PLTV/3/224/3221225523/index.m3u8#http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225901/1.m3u8
 
-央視[超清],#genre#
+央視,#genre#
 超高清4K,http://116.31.69.111/outlivecloud-cdn.ysp.cctv.cn/cctv/2000266303.m3u8
 超高清4K,http://125.94.63.119/outlivecloud-cdn.ysp.cctv.cn/001/2000266303.m3u8
 纯享4K,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000004000011651&livemode=1&stbId=4
