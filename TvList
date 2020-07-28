@@ -692,6 +692,10 @@ CETV4,http://ott.js.chinamobile.com/PLTV/4/224/3221227028/index.m3u8
 藍光動漫14台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
 香港綜合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
 衛視電影,http://58.99.33.9:1935/liveedge2/live_61_1.stream/playlist.m3u8
+HBO原创电影,vjms://58.215.133.185:8500:3502/live/cid=436#vjms://121.14.222.75:8500:3502/live/cid=436#vjms://23.237.33.155:8500:3502/live/cid=436#http://pili-live-hdl.qhmywl.com/dsdtv/fcdd3a3c591bdd0b07a17a92cb555cc1.flv
+HBO家庭,vjms://58.215.133.185:8500:3502/live/cid=181#vjms://121.14.222.75:8500:3502/live/cid=181#vjms://23.237.33.155:8500:3502/live/cid=181#http://pili-live-hdl.qhmywl.com/dsdtv/7e7ed5cc99029fd0d27e25009d7abdac.flv
+HBO强档,vjms://58.215.133.185:8500:3502/live/cid=238#vjms://121.14.222.75:8500:3502/live/cid=238#vjms://23.237.33.155:8500:3502/live/cid=238#http://pili-live-hdl.qhmywl.com/dsdtv/c971b59822c6a91fab4bad8ca9b45f6b.flv
+HBO,vjms://58.215.133.185:8500:3502/live/cid=261#vjms://121.14.222.75:8500:3502/live/cid=261#vjms://23.237.33.155:8500:3502/live/cid=261#http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.flv
 HBO HD,http://tv.kksyw.top/tv_157/gat/hatv.php?id=220#mitv://198.255.74.57:12196/5f0601e6000a7cfeb97928e41d1d8b96.ts
 HBO Signature,http://tv.kksyw.top/tv_157/gat/hatv.php?id=221
 HBO Signature,mitv://198.255.74.57:12196/5f0601ec000e22c5b97941434cb02537.ts
