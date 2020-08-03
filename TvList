@@ -26,9 +26,9 @@ C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/02.m3u8
 開電視,http://f9.apps1818.com:8080/live/17/721c07f796c85916f4075277784f7d61/index.m3u8
 香港綜合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
 香港經典,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEeW91a3UlMjNpZCUzRDgwMTkzMjQ_
-Now新聞台,http://103.140.229.13/xg/wintvh.php?id=16
-Now新聞台,http://teslagram.com/live/channel_332.m3u8
-Now直播台,http://teslagram.com/live/channel_331.m3u8
+Now直播331台,https://nowcom-newsstream-hk.viu.com/getnowmediahls/q_68Qup2-pcIkr4lJluTXA/1596439126/smil:331.smil/chunklist_b954298.m3u8
+Now新聞332台,https://nowcom-newsstream-hk.viu.com/getnowmediahls/lXFupsOUB9pl6PpoJ6YipA/1596439221/smil:332.smil/playlist.m3u8
+Now新聞332台,http://103.140.229.13/xg/wintvh.php?id=16
 Now Sports Prime,http://teslagram.com/live/channel_630.m3u8
 Sports 2 World HK,http://teslagram.com/live/channel_630.m3u8
 Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
@@ -38,6 +38,7 @@ ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV,http://hls.globaliptv.ml/viu99.php
 ViuTV 6,http://61.238.6.49:8000/bysid/96
 ViuTV 6,http://hls.globaliptv.ml/viu96.php
+RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
 RTHK 31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
@@ -45,13 +46,13 @@ RTHK 31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
 RTHK 31,http://teslagram.com/live/channel_31.m3u8
+RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
 RTHK 32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
 RTHK 32,http://teslagram.com/live/channel_32.m3u8
 RTHK 32,http://live.zbjh.cc/live/ws103.m3u8
-無線新聞台,http://45.93.217.106/jiuban/hg.php?id=1
-無線新聞台,http://111.229.73.84/dl/xg235.php?id=9&xl=2
-無綫財經資訊台,http://45.93.217.106/jiuban/hg.php?id=2
+無線新聞台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8
+無綫財經資訊台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/chunklist_b1096000.m3u8
 奧林匹克頻道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 翡翠台,mitv://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
 翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
@@ -130,8 +131,16 @@ ATV亞洲電視台,https://15813114727637862976168173814320.live.prod.hkatv.com/
 鳳凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK WORLD TV,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 台灣,#genre#
+民視HD,https://4gtvfreepc-mozai.4gtv.tv/4F0BRl0gdZouNhla0YH0RqNEVselJs5kO-etsyCdrJc%3d/stream2.m3u8?token=1IidJAfis2KHO_hsDEWVYw&expires=1596435996&refer=MDI1NjFkYjMtM2YxOC00MTJkLTk1YmUtNWRjY2FmNDRjNWU4&y=0&vt=&token1=TYCQYBuw-uKpz0QtPCSTUw&expires1=1596464796
+民視第一台,https://4gtvfreepc-mozai.4gtv.tv/gVgrwerry_xrxaAFN8jm1diQUFjzw5fu75ZQKZcOIo0%3d/stream2.m3u8?token=DvCyfbmdw57QYcKyrLcYvw&expires=1596436084&refer=YTllOWQ2NzEtZmNmMC00NWIzLTkzYWQtMmFiZDQ3OTVkNWQ4&y=0&vt=&token1=NrkPkIohldcml1zNPiG5qw&expires1=1596464884
+民視台灣台,https://4gtvfreepc-mozai.4gtv.tv/v7o4DgC7TS4zQl1NpuiJ6JTYODKh_QE-a2PHVZyvT98%3d/stream2.m3u8?token=rtpxaql5lzVkB01hD3sniQ&expires=1596436210&refer=NDNhOTc4ZDMtOGQyNy00OTAwLTgzYTctY2ExMWUzNWFmMjgy&y=0&vt=&token1=dXDVLDjKtPmQBS0RwsFPSw&expires1=1596465010
+民視新聞台,https://4gtvfreepc-mozai.4gtv.tv/SrYAU8liBGSKJkud2Yc5cb9cOKiJaJMt-lJ_hAyCl-c%3d/stream2.m3u8?token=_EiF6nHyWTn0O5FvIJjuOA&expires=1596436282&refer=ZDgzNzQ0MTItM2JiNy00MjU5LThhNDQtMmYyNTM5Y2Q1YmYw&y=0&vt=&token1=cN8qC5rarOnFi_NYtW4JbQ&expires1=1596465082
+民視影劇台,https://4gtvfreepc-mozai.4gtv.tv/DMQF0aCN8XmYGvTyeHAIxzYDFSSoxNTZ9WJ0yiIRe4A%3d/master.m3u8?token=IZrU2fRozJ6UeSfhKw8yCA&expires=1596436368&token1=4z6lM7earB_YXi1yOiXTPw&expires1=1596465168&refer=NjgwNmQzNWEtY2Y0OC00NWQzLTkwZjEtODczNjZlOTIxNTdm&y=0
+民視綜藝台,https://4gtvfreepc-mozai.4gtv.tv/n75KiTnHKcfkG-AwobzUmdmv76fIu1BYGxoRWIFa_R0%3d/master.m3u8?token=7YkOO6j5Z73QGfVdHfIDlw&expires=1596436436&token1=TFmjvLTVI4zIjL2Z_kTXIA&expires1=1596465236&refer=NmVkZGE3MTEtNjNkMy00ZmNlLTg5MWYtMjAyMTNjODQ1MzVi&y=0
+民視旅遊台,https://4gtvfreepc-mozai.4gtv.tv/JRI59BQyFfT2c03RP_YQNaCIXFG1NaAAkZAsy4ZqwGU%3d/master.m3u8?token=M_RVJ3-zjVMrNlvNubH-WA&expires=1596436539&token1=omWPWUJ4a5upCdDdPfomWw&expires1=1596465339&refer=YWI3OWEyZWItOWM0My00MWEwLWI4ZGEtMWFhOWMzYmIyYThm&y=0
 TVBS新聞台,http://60.199.188.61/HLS/WG_TVBS-N/index.m3u8#http://220.158.149.14:9999/live/TV00000000000000000082@HHZT#http://60.199.188.65/HLS/WG_TVBS-N/01.m3u8#http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
 TVBS歡樂台,http://220.158.149.14:9999/live/TV00000000000000000079@HHZT
 緯來體育,http://220.158.149.14:9999/live/TV00000000000000000078@HHZT#mitv://fccsovh.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts#mitv://fccseuro.pvbox.live:18912/5c2dd76e00049e335bba26bf05a87895.ts#mitv://fccseuro.pvbox.live:18912/5c7249e60007ce3b1d5832543a7916ad.ts#mitv://fccseuro.pvbox.live:18912/5b140921000be144353d8e88e314b42a.ts
@@ -182,7 +191,6 @@ JET 综合,mitv://fccsovh.pvbox.live:18912/5b1409f30001262751180c32d7f81d19.ts#m
 東森電影,mitv://fccsovh.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts#mitv://fccseuro.pvbox.live:18912/5c7249d3000cb8ea1d57e9650d7148b7.ts#mitv://fccseuro.pvbox.live:18912/5b1409f20009bbe29fe3e064dd468231.ts
 偉來電影,mitv://fccsovh.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts#mitv://fccseuro.pvbox.live:18912/5c7249d80003096d1d57fa6c33601be9.ts#mitv://fccseuro.pvbox.live:18912/5b140922000ebd5b76e2ab4af5e7fb75.ts
 HBO,mitv://fccsovh.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts#mitv://fccseuro.pvbox.live:18912/5c7249dd000ca2101d58106551ff3ed4.ts#mitv://fccseuro.pvbox.live:18912/5b140969000be13c02c15179cfa10c68.ts
-民視,mitv://fccsovh.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts#mitv://fccsovh.pvbox.live:18912/5b1409690006a24a6938240e2c12a4c4.ts#mitv://fccseuro.pvbox.live:18912/5c72483f0003db4b1d51bcf349367c26.ts#mitv://fccseuro.pvbox.live:18912/5c2dd73c0002b6076c316efef65b6881.ts
 台视 HD,mitv://fccseuro.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts#mitv://fccsovh.pvbox.live:18912/5b14095f000570be7d87f46e1fdec9ae.ts
 大愛,mitv://fccsovh.pvbox.live:18912/5b1409db0005716852e798a18129af98.ts#mitv://fccseuro.pvbox.live:18912/5b1409db0005716852e798a18129af98.ts
 中視,mitv://fccsovh.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts#mitv://fccsovh.pvbox.live:18912/5b14095f00075e71dbcaee608f5a7f3c.ts#mitv://fccsovh.pvbox.live:18912/5c72484b000b1d091d51edb7087b7686.ts#mitv://fccseuro.pvbox.live:18912/5c2dd743000549bf6154a8985cd9ca6d.ts
@@ -601,8 +609,6 @@ CCTV8電視劇,http://223.110.243.171/PLTV/3/224/3221227204/index.m3u8
 CCTV8電視劇,http://111.40.205.87/PLTV/88888888/224/3221225750/index.m3u8
 CCTV8電視劇,http://liveplay-kk.rtxapp.com/live/program/live/cctv8hd/4000000/mnf.m3u8
 CCTV8電視劇,http://ott.js.chinamobile.com/PLTV/3/224/3221227205/index.m3u8
-CCTV9紀錄,http://116.31.69.111/outlivecloud-cdn.ysp.cctv.cn/cctv/2000499403.m3u8
-CCTV9紀錄,http://125.94.63.119/outlivecloud-cdn.ysp.cctv.cn/001/2000499403.m3u8
 CCTV9紀錄,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000028286&livemode=1&stbId=4
 CCTV9紀錄,http://gslbserv.itv.cmvideo.cn/index.m3u8?channel-id=ystenlive&Contentid=1000000001000014583&livemode=1&stbId=4
 CCTV9紀錄,http://210.22.242.108/live-cnc-cdn.ysp.cctv.cn/ysp/2000499403.m3u8
@@ -988,6 +994,10 @@ Y+影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 阿斗歸來了,http://45.93.217.106/jiuban/huya.php?id=adgll
 
 日本,#genre#
+NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK WORLD TV,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 読売テレビ,p8p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
 NHK総合-大阪,p8p://0198.02686.cc:16871/5d414f6c00077b3d75f7a96d657b07ca.ts
 テレビ东京,p8p://0198.02686.cc:16871/5d414f6b000b4fb575f7a680e13a94ee.ts
