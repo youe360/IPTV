@@ -11,13 +11,13 @@ http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 http://liveicm3.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title="",開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title=""
-香港綜合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/200px-Now_Live_News_logo.svg.png" tvg-country="HK" tvg-url="" group-title="",Now直播331台
-https://nowcom-newsstream-hk.viu.com/getnowmediahls/q_68Qup2-pcIkr4lJluTXA/1596439126/smil:331.smil/chunklist_b954298.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://lh3.googleusercontent.com/proxy/HHAXLz-LKQGKzzfEDuz50MqxYPAVnlNXWMUN4aq2EZ6YK7lHX7gpqiiO72ley8mEOFhISQibTl35Pt38wR0vLI_dofZbJZZmSqOi16KFFF65k-j2DLdceH1YH3tVuCxF6SdVIA" tvg-country="HK" tvg-url="" group-title="",Now新聞332台
-https://nowcom-newsstream-hk.viu.com/getnowmediahls/lXFupsOUB9pl6PpoJ6YipA/1596439221/smil:332.smil/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title="",Now Sports Prime 660
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title=""香港綜合
+http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" tvg-country="HK" tvg-url="" group-title="",Now直播331台
+https://ewcdnsite05.nowe.com/session/09-77afa929bb3edaf67eb9c24622cc2/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(02)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://news.now.com/revamp2014/images/logo.png" tvg-country="HK" tvg-url="" group-title="",Now新聞332台
+https://ewcdnsite07.nowe.com/session/09-9e809f9576321b1fcc7324700ed18/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=dfb5999992ff4974497ce391c1b70c79_1596457580
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" tvg-country="HK" tvg-url="" group-title="",Now Sports Prime 660
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" tvg-country="HK" tvg-url="" group-title="",Now爆谷台
 https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
@@ -37,4 +37,3 @@ http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-country="HK" tvg-url="" group-title="",ATV亞洲電視台
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-
