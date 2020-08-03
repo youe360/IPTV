@@ -14,9 +14,9 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title=""香港綜合
 http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" tvg-country="HK" tvg-url="" group-title="",Now直播331台
-https://ewcdnsite05.nowe.com/session/09-77afa929bb3edaf67eb9c24622cc2/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(02)/index.m3u8
+https://ewcdnsite02.nowe.com/session/09-031149543af0f4b3c416c07a371c4/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(03)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://news.now.com/revamp2014/images/logo.png" tvg-country="HK" tvg-url="" group-title="",Now新聞332台
-https://ewcdnsite07.nowe.com/session/09-9e809f9576321b1fcc7324700ed18/Content/HLS/LIVE/Channel(HLS_CH332N)/index.m3u8?token=dfb5999992ff4974497ce391c1b70c79_1596457580
+https://nowcom-newsstream-hk.viu.com/getnowmediahls/Yutbr6Ob31OJj2-j7q0wzQ/1596461690/smil:332.smil/chunklist_b3118924.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" tvg-country="HK" tvg-url="" group-title="",Now Sports Prime 660
 http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" tvg-country="HK" tvg-url="" group-title="",Now爆谷台
