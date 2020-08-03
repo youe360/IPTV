@@ -1,9 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台 1080HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台1080HD
 http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台 720HD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台720HD
 http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-2.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台 480SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台480SD
 http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台 480SD
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台480SD
 http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo=""" group-title="",有線綜合娛樂台
+http://liveicm3.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo=""" group-title="",有線財經資訊台
+http://liveicm3.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
