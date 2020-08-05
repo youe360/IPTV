@@ -30,9 +30,10 @@ C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/02.m3u8
 開電視,http://livetv.dnsfor.me/channel.9.m3u8 
 香港綜合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
 香港經典,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEeW91a3UlMjNpZCUzRDgwMTkzMjQ_
-Now直播331台,https://ewcdnsite02.nowe.com/session/09-031149543af0f4b3c416c07a371c4/Content/HLS/LIVE/Channel(HLS_CH331)/Stream(03)/index.m3u8
-Now新聞332台,https://nowcom-newsstream-hk.viu.com/getnowmediahls/Yutbr6Ob31OJj2-j7q0wzQ/1596461690/smil:332.smil/chunklist_b3118924.m3u8
+Now直播331台,http://teslagram.com/live/channel_331.m3u8
+Now新聞332台,http://teslagram.com/live/channel_332.m3u8
 Now新聞332台,http://103.140.229.13/xg/wintvh.php?id=16
+Now新聞332台,http://hls.globaliptv.ml/now332.php
 Now Sports Prime 660,http://livetv.dnsfor.me/channel.12.m3u8
 Now Sports Prime 600,http://teslagram.com/live/channel_630.m3u8
 Sports 2 World HK,http://teslagram.com/live/channel_630.m3u8
@@ -43,32 +44,22 @@ ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV,http://hls.globaliptv.ml/viu99.php
 ViuTV 6,http://61.238.6.49:8000/bysid/96
 ViuTV 6,http://hls.globaliptv.ml/viu96.php
-RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
+RTHK 31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u8
-RTHK 31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK 31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
-RTHK 31,https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-RTHK 31,http://teslagram.com/live/channel_31.m3u8
 RTHK 31,http://livetv.dnsfor.me/channel.1.m3u8
-RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
+RTHK 31,http://teslagram.com/live/channel_31.m3u8
 RTHK 32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
-RTHK 32,https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8
-RTHK 32,http://teslagram.com/live/channel_32.m3u8
-RTHK 32,http://live.zbjh.cc/live/ws103.m3u8
 RTHK 32,http://livetv.dnsfor.me/channel.2.m3u8
-無線新聞台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8
+RTHK 32,http://teslagram.com/live/channel_32.m3u8
 無線新聞台,http://livetv.dnsfor.me/channel.10.m3u8 
+無線新聞台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8
 無綫財經資訊台,http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/chunklist_b1096000.m3u8
 無綫財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8
-奧林匹克頻道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 翡翠台,mitv://fccseuro.pvbox.live:18912/5d1220350000ba27f9471ccdeb9a8058.ts
 翡翠台,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
-翡翠台,http://45.93.217.106/jiuban/hg.php?id=3
-翡翠台,http://116.199.5.58:8114/index.m3u8?3Fsv_chan_hls_se_idx=10&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
-翡翠台,http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-翡翠台,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台,http://144.48.240.144:2019/SunTv.php?name=XGFeiCui
 翡翠台,http://danielwu.gz01.bdysite.com/iptv/?id=tvb
 明珠台,mitv://fccsovh.pvbox.live:18912/5dbeb1ca000ccc5031839eb645936fa4.ts
@@ -82,66 +73,39 @@ TVB星河,http://192.154.103.75:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB星河,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB功夫台,http://dlhdl-cdn.zhanqi.tv/zqlive/291236_97IGR.flv
 TVB警匪台,http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
-耀才財經台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-ATV亞洲電視台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
-ATV亞洲電視台,http://livetv.dnsfor.me/channel.14.m3u8
-澳視澳門,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳視澳門,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-澳視澳門,http://live4.tdm.com.mo:80/ch1/_definst_/ch1.live/playlist.m3u8
-澳視澳門,http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
-澳視澳門,http://61.244.22.4/ch1/ch1.live/index.m3u8
-澳視澳門,rtmp://live4.tdm.com.mo:80/ch1/_definst_/ch1.live
-澳門2台,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳門3台,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳門葡語,http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-澳門葡語,http://live4.tdm.com.mo:80/ch2/_definst_//ch2.live/playlist.m3u8
-澳門葡語,http://live4.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
-澳門葡語,rtmp://live4.tdm.com.mo:80/ch2/_definst_/ch2.live
-澳視衛星,http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-澳視衛星,http://61.244.22.4/ch3/ch3.live/index.m3u8
-澳視衛星,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-澳視衛星,http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-澳視衛星,http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
-澳視衛星,rtmp://live4.tdm.com.mo:80/ch3/_definst_/ch3.live
-澳門微電影,http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
-澳門體育,http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-澳視資訊,http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳視資訊,http://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live/playlist.m3u8
-澳視資訊,rtmp://live4.tdm.com.mo:80/ch5/_definst_/info_ch5.live
-澳視資訊,http://live3.tdm.com.mo:1935/ch5/info_ch5.live/playlist.m3u8
-澳視資訊,http://61.244.22.4/ch5/info_ch5.live/index.m3u8
-澳視資訊,http://103.233.191.138/ch5/info_ch5.live/playlist.m3u8
-澳視高清,http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-澳視高清,rtmp://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live
-互動新聞台,http://202.175.127.77/live/show/ch2/index.m3u8
-鳳凰衛視中文台,http://live.centerch.com/fhzw.m3u8
-鳳凰衛視中文台,http://liveali.ifeng.com/live/FHZW.flv
-鳳凰衛視中文台,rtmp://58.200.131.2:1935/livetv/fhzw
-鳳凰衛視中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-鳳凰衛視中文台,http://116.199.5.51:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=190&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-鳳凰衛視中文台,http://117.169.120.138:8080/live/fhchinese/.m3u8
-鳳凰香港台,http://223.82.250.72/live/fhhongkong/1.m3u8
-鳳凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-鳳凰香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-鳳凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-鳳凰香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
-鳳凰資訊,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228597/01.m3u8
+耀才財經台,http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+ATV香港追擊搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
+ATV香港追擊搜,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo.m3u8
+ATV香港追擊搜,http://livetv.dnsfor.me/channel.14.m3u8
+ATV經典台,https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_lo_720p.m3u8
+ATV煮場,https://vod.prod.hkatv.com/D2E7EC29A95E400387707B252399E97B/hls/SD/index.m3u8
+ATV鳳凰衛視資訊台,https://81e0996f61b8eabc6b95e3a16c274256.live.prod.hkatv.com/p1_cbr_lo.m3u8
+ATV鳳凰衛視香港台,https://2d9177eadbb3094826e878458d4300c3.live.prod.hkatv.com/p2_cbr_lo.m3u8
+ATV鳳凰衛視中文台,https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_lo_720p.m3u8
+ATV香港衛視,https://30e433a4967c6868ab183a88288bcd03.live.prod.hkatv.com/h1_cbr_lo_720p.m3u8
+CLUBTV,https://484373edb4645f61b391e7315e5efb99.live.prod.hkatv.com/c1_cbr_lo_720p.m3u8
 鳳凰資訊,http://live.centerch.com/fhzx.m3u8
-鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
-鳳凰資訊,http://112.17.40.140/PLTV/88888888/224/3221226491/index.m3u8
 鳳凰資訊,http://112.50.243.8/PLTV/88888888/224/3221225901/1.m3u8
-鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/.m3u8
-鳳凰資訊,http://117.169.120.138:8080/live/fhzixun/index.m3u8
-鳳凰資訊,http://183.207.249.35/PLTV/3/224/3221226923/index.m3u8
 鳳凰資訊,http://185.93.2.35:12012/live/359111068247FFA1/8e9bT1QCRuTN5qZD9HzE9ZeS4ptaPqWJI6TLzUy6GbxFUameR_Y8COhP0XSv_V-8/4E1F6F8A1C7B4D86/901478.ts
 鳳凰資訊,http://185.93.2.35:12012/live/359111068247FFA1/0cshpoklIFIsz1x83Gks31WCf08chKdrkox1jh1dkJbzzdZ2RqU7Cvj9q3UKzSF2/4E1F6F8A1C7B4D86/901478.ts
 鳳凰資訊,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
+鳳凰資訊,rtmp://58.200.131.2:1935/livetv/fhzx
+鳳凰衛視中文台,http://live.centerch.com/fhzw.m3u8
+鳳凰衛視中文台,http://liveali.ifeng.com/live/FHZW.flv
+鳳凰衛視中文台,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
+鳳凰衛視中文台,http://117.169.120.138:8080/live/fhchinese/.m3u8
+鳳凰衛視香港台,http://223.82.250.72/live/fhhongkong/1.m3u8
+鳳凰衛視香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
+鳳凰衛視香港台,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+鳳凰衛視香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+鳳凰衛視香港台,http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8?icpid=88888888&from=0&hms_devid=3804
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK WORLD TV,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
+奧林匹克頻道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 
 台灣,#genre#
 民視HD,https://4gtvfreepc-mozai.4gtv.tv/4F0BRl0gdZouNhla0YH0RqNEVselJs5kO-etsyCdrJc%3d/stream2.m3u8?token=1IidJAfis2KHO_hsDEWVYw&expires=1596435996&refer=MDI1NjFkYjMtM2YxOC00MTJkLTk1YmUtNWRjY2FmNDRjNWU4&y=0&vt=&token1=TYCQYBuw-uKpz0QtPCSTUw&expires1=1596464796
@@ -1004,8 +968,27 @@ Y+影院,http://hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221229999/ind
 阿斗歸來了,http://45.93.217.106/jiuban/huya.php?id=adgll
 
 日本,#genre#
-NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+日テレNEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
+CGNTV,http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_jp/playlist.m3u8
+GSTV,https://gemstv.wide-stream.net/gemstv01/smil:gemstv01.smil/chunklist.m3u8
+群馬テレビ,https://movie.mcas.jp/switcher/smil:mcas8.smil/master.m3u8
+群馬テレビ,https://movie.mcas.jp/switcher/mcas8_2/chunklist.m3u8
+Japanet Channel DX,https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
+MXライブ,http://movie.mcas.jp/mcas/mx_live_2/master.m3u8
+新日本プロレスリングワールド,https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
+NHKワールドジャパン,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+QVCジャパン,https://cdn-live1.qvc.jp/iPhone/1501/1501.m3u8
+ショップチャンネル,https://stream3.shopch.jp/HLS/master.m3u8
+東京MX 1,http://movie.mcas.jp/mcas/mx1_2/chunklist.m3u8
+東京MX 1,https://movie.mcas.jp/mcas/smil:mx1_prod.smil/master.m3u8
+東京MX 2,http://movie.mcas.jp/mcas/mx2_2/chunklist.m3u8
+東京MX 2,https://movie.mcas.jp/mcas/smil:mx2_prod.smil/master.m3u8
+ウェザーニュース,https://movie.mcas.jp/mcas/smil:wn1.smil/master.m3u8
+ウェザーニュース,http://movie.mcas.jp/mcas/wn1_2/master.m3u8
+ジャパネットチャンネルDX,http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
+
 NHK WORLD TV,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 読売テレビ,p8p://0198.02686.cc:16871/5d414f6d00024d6a75f7ac02caeafefc.ts
