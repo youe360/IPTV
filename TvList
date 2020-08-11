@@ -16,6 +16,7 @@
 有線財經資訊台,http://livetv.dnsfor.me/channel.6.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 有線電影一台,P2p://198.255.74.57:12296/5f1c872b0000a48a242db3c7114a6d84.ts
+有線電影一台,mitv://51.79.41.138:18912/5b140a160002576417d501d91af1598e.ts
 有線18台,rtmp://xiaoyu.speedws.com/sat/hk041
 C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
@@ -32,13 +33,12 @@ C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/02.m3u8
 開電視,http://livetv.dnsfor.me/channel.9.m3u8 
 開電視,P2p://198.255.74.57:12296/5f1c8736000b5d21242de17e77188ee7.ts
 香港綜合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
-香港經典,http://dly.fwtv2.xyz/dly2020.php?qq718886332&play&vkeys=dmlkJTNEeW91a3UlMjNpZCUzRDgwMTkzMjQ_
 Now直播331台,http://teslagram.com/live/channel_331.m3u8
 Now新聞332台,http://teslagram.com/live/channel_332.m3u8
 Now新聞332台,http://103.140.229.13/xg/wintvh.php?id=16
 Now新聞332台,http://hls.globaliptv.ml/now332.php
-Now Sports Prime 660,http://livetv.dnsfor.me/channel.12.m3u8
-Now Sports Prime 600,http://teslagram.com/live/channel_630.m3u8
+Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
+Now Sports Prime 630,http://teslagram.com/live/channel_630.m3u8
 Sports 2 World HK,http://teslagram.com/live/channel_630.m3u8
 Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 ViuTV,P2p://198.255.74.57:12296/5f1c872b00086812242db5c410bc1b10.ts
@@ -217,6 +217,7 @@ China Movie,P2p://198.255.74.57:12296/5f1c8700000b5fd2242d0e8f3b92d76a.ts
 衛視西片 HD,P2p://198.255.74.57:12296/5f1c86da000a0fab242c79c9ac1e951f.ts
 龍祥時代,P2p://198.255.74.57:12296/5f1c86da0009120a242c7988d55e92c3.ts
 天映頻道,P2p://198.255.74.57:12296/5f1c86da00076909242c791b52a0b1b5.ts
+
 國際,#genre#
 HBO HD,P2p://198.255.74.57:12296/5f1c86da00030a10242c77fc033b0500.ts
 HBO Hits,P2p://198.255.74.57:12296/5f1c86d400034566242c609c9a73885a.ts
