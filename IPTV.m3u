@@ -1,14 +1,14 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台1080HD
-http://liveicm3.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+https://github.com/Mysuper360/IPTV/edit/master/TvList
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a8/I-Cable_Family_Ent.jpg" tvg-country="HK" tvg-url="" group-title="",有線綜合娛樂台
-http://liveicm3.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
+http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" tvg-country="HK" tvg-url="" group-title="",有線財經資訊台
-http://liveicm3.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
+http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://i.imgur.com/PtG4GsH.jpg" tvg-country="HK" tvg-url=""group-title="",C+頻道
 http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo=" tvg-country="HK" tvg-url="" group-title="",賽馬直擊
-http://liveicm3.utvlive.top/live/2a663abfe6e6444881be6ff11207a63f/6800ef3fa1ba42fbb2fe86aebbaf318f-3.m3u8
+http://livetv.dnsfor.me/channel.13.m3u8 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title="",開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title=""香港綜合
