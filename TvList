@@ -42,12 +42,15 @@ RTHK32,http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 RTHK新聞直播,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+無綫新聞台,https://www.ootori.xyz/tv/tvb.php?id=inews
 無綫新聞台,http://61.238.6.49:8001/bysid/83
+無綫新聞台,https://www.ootori.xyz/tv/tvb.php?id=inews
 無綫新聞台,http://1018.jilu8.cn/wxtv.php?id=wxxw
 無綫新聞台,http://1018.jilu8.cn/wxtv.php?id=wxxwsd
 無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
 無綫新聞台,http://tv.tonyt.top/iptv/tvb.php?id=1
 無綫新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw
+無綫財經資訊台,https://www.ootori.xyz/tv/tvb.php?id=finance
 無綫財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8
 無綫財經資訊台,http://1018.jilu8.cn/wxtv.php?id=wxcj
 無綫財經資訊台,http://1018.jilu8.cn/wxtv.php?id=wxcjsd
@@ -524,6 +527,7 @@ CETV4,http://ott.js.chinamobile.com/PLTV/4/224/3221227028/index.m3u8
 中國天氣,http://ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
 
 影視輪播,#genre#
+峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
 FOX動作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
@@ -730,6 +734,16 @@ PP體育 真4K,http://live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/i
 CCTV高爾夫·網球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225674/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/ 3221227535/index.m3u8
 CCTV台球HD,http://ott.cqccn.com/PLTV/88888888/224/3221227646/index.m3u8
 CCTV風雲足球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls#http://ott.cqccn.com/PLTV/88888888/224/3221227538 /index.m3u8
+
+半澤直樹II,#genre#
+第0集,http://mei.huazuida.com/20200104/20705_f63cddc7/index.m3u8
+第1集,http://douban.donghongzuida.com/20200720/5804_c03ddbbc/index.m3u8
+第2集,http://yuledy.helanzuida.com/20200726/8062_c1077a55/index.m3u8
+第3集,http://yuledy.helanzuida.com/20200802/8355_32a5025f/index.m3u8
+第4集,http://xigua-cdn.haima-zuida.com/20200809/9839_e9169dd4/1000k/hls/index.m3u8
+第5集,http://douban.donghongzuida.com/20200817/7565_4b732288/index.m3u8
+第6集,http://douban.donghongzuida.com/20200824/8140_7e52a4fe/index.m3u8
+第7集,
 
 日本,#genre#
 日テレNEWS24,https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
