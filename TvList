@@ -1,8 +1,11 @@
 香港,#genre#
 有線新聞台,http://liveicm12.utvlive.top/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c-3.m3u8
+有線新聞台,http://livetv.dnsfor.me/channel.5.m3u8  
 有線財經資訊台,http://liveicm12.utvlive.top/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d-3.m3u8
+有線財經資訊台,http://livetv.dnsfor.me/channel.6.m3u8  
 有線綜合娛樂台,http://liveicm12.utvlive.top/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f-3.m3u8
-有線綜合娛樂台,http://livetv.dnsfor.me/channel.13.m3u8
+有線綜合娛樂台,http://livetv.dnsfor.me/channel.7.m3u8  
+有線賽事直擊,http://livetv.dnsfor.me/channel.13.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 有線18台,http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
 C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
@@ -15,6 +18,7 @@ C+頻道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 開電視,http://livetv.dnsfor.me/channel.9.m3u8 
 Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
+Now直播331台,https://nowcom-newsstream-hk.viu.com/getnowmediahls/JZ12VnLczo68gzd5_PJoSQ/1598737356/smil:331.smil/chunklist_b2008037.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now新聞332台,http://teslagram.com/live/channel_332.m3u8
 Now新聞332台,http://103.140.229.13/xg/wintvh.php?id=16
@@ -85,6 +89,7 @@ NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK WORLD TV,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 奧林匹克頻道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+四台同播,http://livetv.dnsfor.me/VideoPlayer-from-anothers.html
 
 
 澳門,#genre#
