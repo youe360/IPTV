@@ -1,12 +1,12 @@
 香港,#genre#
 有線新聞台,http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
-有線新聞台,http://livetv.dnsfor.me/channel.5.m3u8  
+有線新聞台,http://livetv.dnsfor.me:80/channel.5.m3u8
 有線財經資訊台,http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
-有線財經資訊台,http://livetv.dnsfor.me/channel.6.m3u8  
+有線財經資訊台,http://livetv.dnsfor.me:80/channel.6.m3u8  
 有線綜合娛樂台,http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4.m3u8
-有線綜合娛樂台,http://livetv.dnsfor.me/channel.7.m3u8  
+有線綜合娛樂台,http://livetv.dnsfor.me:80/channel.7.m3u8  
 有線賽事直擊,https://liveima.utvlive.top/livehls/MOB-HR/02.m3u8
-有線賽事直擊,http://livetv.dnsfor.me/channel.13.m3u8
+有線賽事直擊,http://livetv.dnsfor.me:80/channel.13.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
 有線18台,http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
 C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
@@ -16,7 +16,7 @@ C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/04.m3u8
 C+頻道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
-開電視,http://livetv.dnsfor.me/channel.9.m3u8 
+開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
 Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
 Now直播331台,https://nowcom-newsstream-hk.viu.com/getnowmediahls/JZ12VnLczo68gzd5_PJoSQ/1598737356/smil:331.smil/chunklist_b2008037.m3u8
@@ -29,13 +29,18 @@ Now Sports Prime 630,http://teslagram.com/live/channel_630.m3u8
 Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
 ViuTV,https://cdn.hkdtmb.com/99a/playlist.m3u8
+ViuTV,http://205.215.28.171:9981/stream/channelid/1167669470
+ViuTV,https://cdn.hkdtmb.com/99a/playlist.m3u8
 ViuTV,http://livetv.dnsfor.me/channel.20.m3u8
 ViuTV,http://livetv.dnsfor.me:80/channel.20.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV,http://hls.globaliptv.ml/viu99.php
+https://cdn.hkdtmb.com/96/playlist.m3u8
+ViuTV 6,http://205.215.28.171:9981/stream/channelid/339528828
 ViuTV 6,http://61.238.6.49:8000/bysid/96
 ViuTV 6,http://hls.globaliptv.ml/viu96.php
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
+RTHK31,http://205.215.28.171:9981/stream/channelid/1061434376
 RTHK31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
 RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
@@ -44,10 +49,13 @@ RTHK31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RTHK31,http://teslagram.com/live/channel_31.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
+RTHK32,http://205.215.28.171:9981/stream/channelid/243598584
 RTHK32,http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
+RTHK33,http://205.215.28.171:9981/stream/channelid/1550400683
 RTHK新聞直播,http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190000011_av-b.m3u8
+無綫新聞台,http://96.45.185.192/tv.php?vid=wxxw
 無綫新聞台,http://hk4-edge30-1.edgeware.tvb.com/session/12b0438e-ec56-11ea-ab4e-0050569023d7/dtysfd/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8?token=6e42d95953fd08b9ad6919cf1440597f_1599052901_1599052901
 無綫新聞台,https://www.ootori.xyz/tv/tvb.php?id=inews
 無綫新聞台,http://61.238.6.49:8001/bysid/83
@@ -57,6 +65,7 @@ RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190
 無綫新聞台,http://livetv.dnsfor.me/channel.10.m3u8
 無綫新聞台,http://tv.tonyt.top/iptv/tvb.php?id=1
 無綫新聞台,http://tv.sason.xyz/proxy/tvb.php?id=xw
+無綫財經資訊台,http://96.45.185.192/tv.php?vid=wxcjzx
 無綫財經資訊台,http://hk4-edge3-1.edgeware.tvb.com/session/325c7c70-ec56-11ea-9729-005056903a13/dtysfd/newslive/smil:mobilehd_financeintl.smil/chunklist_b1096000.m3u8?token=e7e547f9d8e2c14cfdff10c4aef5ee9d_1599052954_1599052954
 無綫財經資訊台,https://www.ootori.xyz/tv/tvb.php?id=finance
 無綫財經資訊台,http://livetv.dnsfor.me/channel.11.m3u8
@@ -555,9 +564,40 @@ FOX動作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 電影8廳,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/428049/live_280698572_9101071.m3u8
 電影9廳,https://cn-jswx2-cmcc-live-01.bilivideo.com/live-bvc/141477/live_82436982_2406441.m3u8
 黑莓電影,http://39.135.225.5:18890/PLTV/88888888/224/3221225891/index.m3u8
-黑莓電影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226292/1.m3u8
+黑莓電影,http://39.135.139.199:6610/PLTV/88888888/224/3221225718/2/index.m3u8?fmt=ts2hls
+黑莓電影,http://39.135.139.199:6610/PLTV/88888888/224/3221225764/2/index.m3u8?fmt=ts2hls
+黑莓電影,http://39.135.139.199:6610/PLTV/88888888/224/3221225769/2/index.m3u8?fmt=ts2hls
+黑莓電影,http://39.134.66.66/PLTV/88888888/224/3221225523/index.m3u8
+黑莓電影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 黑莓電影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 驚悚電影,http://pull.kktv8.com/livekktv/143960119.flv
+
+CCTV4K超高清，http：//111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http：//112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8 #http：//39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
+純享4K UHD，http：//jxgz.jilu8.cn/PLTV/88888888/224/3221225786/2/index.m3u8？fmt = ts2hls＃http：//ott.fj.chinamobile.com/PLTV/88888888/224 /3221226825/1.m3u8
+BesTV4K UHD，http：//117.148.187.37/PLTV/88888888/224/3221226718/index.m3u8#http：//117.148.187.83/PLTV/88888888/224/3221226718/index.m3u8#http：//117.148.187.59 /PLTV/88888888/224/3221226718/index.m3u8#http://39.134.176.157/PLTV/88888888/224/3221226718/index.m3u8
+Dox4K 30M2160，http：//39.135.19.169：18890 / PLTV / 88888888/224/3221226019 // index.m3u8？fmt = ts2hls＃http：//39.135.19.162：18890 / PLTV / 88888888/224/3221226019/1 / index.m3u8？fmt = ts2hls
+G + TV4K，http：//39.135.19.162：18890 / PLTV / 88888888/224/3221226019/1 / index.m3u8？fmt = ts2hls
+海看4K高碼率，http：//120.221.5.106：8089 / PLTV / 88888888/224/3221225833 / index.m3u8＃http：//120.221.5.105：8089 / PLTV / 88888888/224/3221225833 / index.m3u8 #http：//120.221.5.176：8089 / PLTV / 88888888/224/3221225833 / index.m3u8
+南國都市4K，HTTP：//116.199.5.51：8114/00000000 / index.m3u8＆Fsv_ctype = LIVES＆Fsv_otype = 1＆FvSeid = 5abd1660af1babb4＆Fsv_filetype = 1＆Fsv_ctype = LIVES＆Fsv_cid = 0＆Fsv_chan_hls_se_idx = 123＆Fsv_rate_id = 0＆Fsv_SV_PARAM1 = 0＆Fsv_ShiftEnable = 0＆Fsv_ShiftTsp = 0＆PROVIDER_ID =＆Pcontent_id =＆Fsv_CMSID =＆Fsv_otype = 1個
+廣東綜藝4K，http：//116.199.5.58：8114 / index.m3u8？3Fsv_chan_hls_se_idx = 17＆FvSeid = 1＆Fsv_ctype = LIVES＆Fsv_otype = 1＆Provider_id =＆Pcontent_id = .m3u8
+咪咕4K，http：//otttv.bj.chinamobile.com/PLTV/88888888/224/3221226399/1.m3u8
+愛上4K測試，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226352/index.m3u8#http：//118.123.60.5：8114 / LIVES / Fsv_otype = 1＆FvSeid =＆Fsv_chan_hls_se_idx = 097＆Provider_id =＆Pcontent_id = index.m3u8＃http：//118.123.60.8：8114 / LIVES / Fsv_otype = 1＆FvSeid =＆Fsv_filetype = mull＆Fsv_chan_hls_se_idx = 092＆Provider_id =＆Pcontent_id = index.m3u8
+CHC高清電影，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+CHC動作電影，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+CHC家庭影院，http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+鳳凰電影，rtmp：//ivi.bupt.edu.cn：1935 / livetv / fhdy
+四川峨眉電影，http：//39.134.198.48：6610 / yst.live.scmobile.com / otvzte.scmcc.com.cNF：8080 / ysten-businessmbble / live / scem / index.m3u8
+峨眉電影頻道，http：//219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
+峨眉電影頻道，http：//scgctvshow.sctv.com/hdlive/emei/1.m3u8
+廣東綜藝1080，http：//tv.tonyt.top/iptv/gdtv.php？id = 16
+上海東方影視，http：//183.207.255.188/live/program/live/dsjpdhd/4000000/mnf.m3u8#http：//140.207.241.2：8080 / live / program / live / dsjpdhd / 4000000 / mnf.m3u8＃ http://39.134.39.39/PLTV/88888888/224/3221226189/index.m3u8
+湖南電影頻道，http：//tkbunj246.nian.gfzyw.cn/woniu.php？id = 10000044
+黑莓電影，http：//112.17.40.140/PLTV/88888888/224/3221226755/index.m3u8#http：//112.50.243.8/PLTV/88888888/224/3221225891/1.m3u8
+現在爆谷台，https：//myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
+邵氏電影，http：//tx2play1.douyucdn.cn/live/4246519r63tieRdJ_2000p.xs？uuid =
+邵氏影院，https：//cn-lnsy-cu-live-01.live-play.acgvideo.com/live-bvc/164215/live_97065163_17925468.m3u8
+邵氏鬼片，http：//pull.kktv8.com/livekktv/143960119.flv
+
 NewTV超級電影,http://39.135.225.5:18890/PLTV/88888888/224/3221225804/index.m3u8
 NewTv超級電影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226233/1.m3u8
 NewTv超級電影,http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225804/1.m3u8
@@ -583,7 +623,6 @@ NewTV愛情喜劇,http://39.135.225.5:18890/PLTV/88888888/224/3221225877/index.m
 藍光動畫12台,http://112.50.243.8/PLTV/88888888/224/3221226732/1.m3u8
 藍光動畫13台,http://112.50.243.8/PLTV/88888888/224/3221226741/1.m3u8
 藍光動漫14台,http://112.50.243.8/PLTV/88888888/224/3221226743/1.m3u8
-
 
 NewTV中國功夫,http://39.135.225.5:18890/PLTV/88888888/224/3221225896/index.m3u8
 NewTV健康有約,http://39.135.225.5:18890/PLTV/88888888/224/3221225883/index.m3u8
