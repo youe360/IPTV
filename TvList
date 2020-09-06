@@ -14,6 +14,7 @@ C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
 C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/01.m3u8
 C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/04.m3u8
 C+頻道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
+開電視,https://cdn.hkdtmb.com/77a/playlist.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
@@ -30,12 +31,10 @@ Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3
 Now爆谷台,https://myun-hw-s3.myun.tv/melj80jz/56xk36p7/1583754037503666897.m3u8
 ViuTV,https://cdn.hkdtmb.com/99a/playlist.m3u8
 ViuTV,http://205.215.28.171:9981/stream/channelid/1167669470
-ViuTV,https://cdn.hkdtmb.com/99a/playlist.m3u8
 ViuTV,http://livetv.dnsfor.me/channel.20.m3u8
 ViuTV,http://livetv.dnsfor.me:80/channel.20.m3u8
 ViuTV,http://61.238.6.49:8000/bysid/99
 ViuTV,http://hls.globaliptv.ml/viu99.php
-https://cdn.hkdtmb.com/96/playlist.m3u8
 ViuTV 6,http://205.215.28.171:9981/stream/channelid/339528828
 ViuTV 6,http://61.238.6.49:8000/bysid/96
 ViuTV 6,http://hls.globaliptv.ml/viu96.php
@@ -80,6 +79,7 @@ RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190
 明珠台,http://61.238.6.49:8001/bysid/2
 J2,http://61.238.6.49:8001/bysid/82
 J2,http://livetv.dnsfor.me/channel.19.m3u8
+J2,https://cdn.hkdtmb.com/82a/playlist.m3u8
 TVB星河台,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB警匪台,http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
 耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
