@@ -545,6 +545,9 @@ CETV4,http://ott.js.chinamobile.com/PLTV/4/224/3221227028/index.m3u8
 中國天氣,http://ott.js.chinamobile.com/PLTV/3/224/3221227438/index.m3u8
 
 影視輪播,#genre#
+歐美影院,http://tx2play1.douyucdn.cn/live/20415rnWbjg6Ex1K.flv
+經典電影,http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
+YY經典電影,http://106.54.30.243/dl/YY.php?t=1352216562
 峨眉电影,http://scgctvshow.sctv.com/hdlive/emei/1.m3u8
 東森電影,http://104.250.154.42:8080/ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 東森洋片,http://104.250.154.42:8080/ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
@@ -571,6 +574,9 @@ FOX動作,http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 黑莓電影,http://39.134.66.66/PLTV/88888888/224/3221225681/index.m3u8
 黑莓電影,http://111.13.111.242/otttv.bj.chinamobile.com/PLTV/88888888/224/3221225927/1.m3u8
 驚悚電影,http://pull.kktv8.com/livekktv/143960119.flv
+周星馳,http://tx2play1.douyucdn.cn/live/122402rK7MO9bXSq.flv
+林正英,https://zb3.qhqsnedu.com/live/chingyinglam/playlist.m3u8
+
 
 CCTV4K超高清，http：//111.161.121.214/livews-4k.5club.cctv.cn/live/4K.stream/playlist.m3u8#http：//112.17.40.12/PLTV/88888888/224/3221226758/index.m3u8 #http：//39.134.185.69/PLTV/88888888/224/3221226758/1.m3u8
 純享4K UHD，http：//jxgz.jilu8.cn/PLTV/88888888/224/3221225786/2/index.m3u8？fmt = ts2hls＃http：//ott.fj.chinamobile.com/PLTV/88888888/224 /3221226825/1.m3u8
