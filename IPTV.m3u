@@ -1,14 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.nettv.live/uploads/18/1-1Q01420544J23.jpg" tvg-country="HK" tvg-url="" group-title="",有線新聞台1080HD
-https://github.com/Mysuper360/IPTV/edit/master/TvList
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a8/I-Cable_Family_Ent.jpg" tvg-country="HK" tvg-url="" group-title="",有線綜合娛樂台
-http://liveima.utvlive.top/livehls/MOB-CN/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/a/a9/Cabletv_fn_logo.jpg" tvg-country="HK" tvg-url="" group-title="",有線財經資訊台
+# 香港頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_News.png" tvg-country="HK" tvg-url="" group-title="",有線新聞台
+http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" tvg-country="HK" tvg-url="" group-title="",有線綜合娛樂台
+http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_Ent.png" tvg-country="HK" tvg-url="" group-title="",有線財經資訊台
 http://liveima.utvlive.top/livehls/MOB-NGW/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://i.imgur.com/PtG4GsH.jpg" tvg-country="HK" tvg-url=""group-title="",C+頻道
-http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo=" tvg-country="HK" tvg-url="" group-title="",賽馬直擊
-http://livetv.dnsfor.me/channel.13.m3u8 
+http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title="",開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="" tvg-country="HK" tvg-url="" group-title=""香港綜合
@@ -29,10 +28,16 @@ http://61.238.6.49:8000/bysid/96
 https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="",RTHK 32
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://lh3.googleusercontent.com/proxy/BucOgJGrwtLHT2ulAUeslpIhRS_q7eC30PoFjOM5glpcAYhnizIQD8PjAhEwab-LogbSlvP0DiedjHp2z6OZUS4" tvg-country="HK" tvg-url="" group-title="",無線新聞台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/chunklist_b1096000.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://lh3.googleusercontent.com/proxy/iQyyJNBeZP9rDaAg7JPjU6_FWe7TZnjZlIjqDYAhOq80L0GeXNm40hKXGBWn4EjFT6XlmIdnddsvRG1_eYCGj7JIOerDLN-jOynw-A" tvg-country="HK" tvg-url="" group-title="",無綫財經資訊台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_finance.smil/chunklist_b1096000.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_News.png" tvg-country="HK" tvg-url="" group-title="",無線新聞台
+http://96.45.185.192/tv.php?vid=wxxw
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_Finance.png" tvg-country="HK" tvg-url="" group-title="",無綫財經資訊台
+http://96.45.185.192/tv.php?vid=wxcjzx
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="HK",翡翠台
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="HK",明珠台
+http://61.238.6.49:8001/bysid/2
+#EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="HK",J2
+http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.olympicchannel.com/Images/Static/OC-Logo-Horizontal.png" tvg-country="HK" tvg-url="" group-title="",奧林匹克頻道
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-country="HK" tvg-url="" group-title="",ATV亞洲電視台
