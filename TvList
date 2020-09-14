@@ -8,11 +8,6 @@
 有線賽事直擊,https://liveima.utvlive.top/livehls/MOB-HR/02.m3u8
 有線賽事直擊,http://livetv.dnsfor.me:80/channel.13.m3u8
 有線直播新聞台,http://teslagram.com/live/channel_110.m3u8
-有線18台,http://ff05.vipub1818.com/live/44/8a9848fd09a6b1f1155e36e93c4e850d/index.m3u8
-C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
-C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/03.m3u8
-C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/01.m3u8
-C+頻道,http://livealima.utvlive.top/livehls/MOB-U1-NO/04.m3u8
 C+頻道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 開電視,https://cdn.hkdtmb.com/77a/playlist.m3u8
 開電視,http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
@@ -20,10 +15,8 @@ C+頻道,http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 開電視,http://livetv.dnsfor.me:80/channel.9.m3u8
 Now直播331台,http://livetv.dnsfor.me/channel.3.m3u8
 Now直播331台,http://livetv.dnsfor.me:80/channel.3.m3u8
-Now直播331台,https://nowcom-newsstream-hk.viu.com/getnowmediahls/JZ12VnLczo68gzd5_PJoSQ/1598737356/smil:331.smil/chunklist_b2008037.m3u8
 Now新聞332台,http://livetv.dnsfor.me:80/channel.4.m3u8
 Now新聞332台,http://teslagram.com/live/channel_332.m3u8
-Now新聞332台,http://103.140.229.13/xg/wintvh.php?id=16
 Now新聞332台,http://hls.globaliptv.ml/now332.php
 Now Sports Prime 630,http://livetv.dnsfor.me/channel.12.m3u8
 Now Sports Prime 630,http://teslagram.com/live/channel_630.m3u8
@@ -39,7 +32,6 @@ ViuTV 6,http://205.215.28.171:9981/stream/channelid/339528828
 ViuTV 6,http://61.238.6.49:8000/bysid/96
 ViuTV 6,http://hls.globaliptv.ml/viu96.php
 RTHK31,http://livetv.dnsfor.me/channel.1.m3u8
-RTHK31,http://205.215.28.171:9981/stream/channelid/1061434376
 RTHK31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_5400_av-p.m3u8
 RTHK31,https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
 RTHK31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-p.m3u8
@@ -48,7 +40,6 @@ RTHK31,http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_1296_av-b.m3u
 RTHK31,http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 RTHK31,http://teslagram.com/live/channel_31.m3u8
 RTHK32,http://livetv.dnsfor.me/channel.2.m3u8
-RTHK32,http://205.215.28.171:9981/stream/channelid/243598584
 RTHK32,http://rthklive2-lh.akamaihd.net:80/i/rthk32_1@168450/index_1080_av-p.m3u8
 RTHK32,https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-b.m3u8
 RTHK33,http://205.215.28.171:9981/stream/channelid/1550400683
@@ -80,7 +71,6 @@ RTHK新聞直播,https://rthkcnews-lh.akamaihd.net/i/rthknews_1@312607/index_190
 J2,http://61.238.6.49:8001/bysid/82
 J2,http://livetv.dnsfor.me/channel.19.m3u8
 J2,https://cdn.hkdtmb.com/82a/playlist.m3u8
-TVB星河台,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
 TVB警匪台,http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
 耀才財經台,http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
 耀才財經台,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -103,7 +93,6 @@ NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.
 NHK華語視界,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
 NHK WORLD TV,https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 奧林匹克頻道,http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
-四台同播,http://livetv.dnsfor.me/VideoPlayer-from-anothers.html
 
 澳門,#genre#
 澳視澳門,http://live3.tdm.com.mo/ch1/ch1.live/playlist.m3u8
@@ -798,7 +787,7 @@ CCTV風雲足球HD,http://39.135.19.162:18890/PLTV/88888888/224/3221225734/1/ind
 第5集,http://douban.donghongzuida.com/20200817/7565_4b732288/index.m3u8
 第6集,http://douban.donghongzuida.com/20200824/8140_7e52a4fe/index.m3u8
 第7集,https://56.com-zx-56.com/20200830/16235_cbdf134e/index.m3u8
-第8集,
+第8集,https://56.com-zx-56.com/20200913/17432_cfaf5c59/index.m3u8
 第9集,
 第10集,
 
