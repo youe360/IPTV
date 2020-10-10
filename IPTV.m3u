@@ -19,14 +19,14 @@ http://livetv.dnsfor.me/channel.12.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now爆谷台" tvg-language="" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" tvg-country="HK" tvg-url="" group-title="香港頻道",Now爆谷台
 https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV" tvg-language="Chinese;Cantonese" tvg-logo="https://static.viu.tv/viutv_logo.png" tvg-country="HK" tvg-url="" group-title="香港頻道",ViuTV
-http://livetv.dnsfor.me:80/channel.20.m3u8
+https://cdn.hkdtmb.com/hls/99/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ViuTV 6" tvg-language="" tvg-logo="https://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg" tvg-country="HK" tvg-url="" group-title="香港頻道",ViuTV 6
-http://hls.globaliptv.ml/viu96.php
-#EXTINF:-1 tvg-id="" tvg-name="RTHK31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" group-title="香港頻道",RTHK31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
-#EXTINF:-1 tvg-id="" tvg-name="RTHK32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="香港頻道",RTHK32
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
-#EXTINF:-1 tvg-id="" tvg-name="RTHK新聞直播" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="香港頻道",RTHK新聞直播
+http://61.238.6.49:8000/bysid/96
+#EXTINF:-1 tvg-id="" tvg-name="港台電視31" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" group-title="香港頻道",港台電視31
+https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="港台電視32" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="香港頻道",港台電視32
+https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="港台電視新聞直播" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="香港頻道",港台電視新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="無線新聞台" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_News.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無線新聞台
 http://96.45.185.192/tv.php?vid=wxxw
@@ -73,7 +73,7 @@ http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",影視 5
 http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="香港衛視HKS" tvg-logo="" group-title="電影",峨嵋山影視
-http://dlhdl-cdn.zhanqi.tv/zqlive/295519_JkFS8.flv
+https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",峨眉電影
 http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="KK金馬影院" tvg-logo="" group-title="電影",KK金馬影院
