@@ -36,7 +36,7 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
 dtv://antenna:62/dvb/32
 #EXTINF:0 tvg-id="" tvg-name="港台電視32(備)"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="香港頻道",港台電視32(備)
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
-#EXTINF:0 tvg-id="" tvg-name="中央電視台綜合頻道"  audio-track="eng" tvg-logo="https://zh.wikipedia.org/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%9633%E3%80%8133A#/media/File:RTHK_TV_33.svg" group-title="香港頻道",港台電視33
+#EXTINF:0 tvg-id="" tvg-name="中央電視台綜合頻道"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1920px-RTHK_TV_33.svg.png" group-title="香港頻道",港台電視33
 dtv://antenna:62/dvb/33
 #EXTINF:0 tvg-id="" tvg-name="港台電視新聞直播"  audio-track="eng"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Radio_Television_Hong_Kong_Logo.svg" tvg-country="HK" tvg-url="" group-title="香港頻道",RTHK新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
