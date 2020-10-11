@@ -10,6 +10,8 @@ http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a9024
 http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="開電視"  audio-track="eng" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/HK_Open_TV.png" group-title="香港頻道",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
+#EXTINF:0 tvg-id="" tvg-name="香港國際財經台"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png" group-title="香港頻道",香港國際財經台
+dtv://antenna:21/dvb/76
 #EXTINF:0 tvg-id="" tvg-name="Now直播331台"  audio-track="eng" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" tvg-country="HK" tvg-url="" group-title="香港頻道",Now直播331台
 http://livetv.dnsfor.me/channel.3.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Now新聞332台"  audio-track="eng" tvg-language="" tvg-logo="https://news.now.com/revamp2014/images/logo.png" tvg-country="HK" tvg-url="" group-title="香港頻道",Now新聞332台
