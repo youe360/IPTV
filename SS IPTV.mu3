@@ -36,9 +36,9 @@ https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
 dtv://antenna:62/dvb/32
 #EXTINF:0 tvg-id="" tvg-name="港台電視32(備)"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="香港頻道",港台電視32(備)
 https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
-#EXTINF:0 tvg-id="" tvg-name="中央電視台綜合頻道"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="香港頻道",港台電視32
+#EXTINF:0 tvg-id="" tvg-name="中央電視台綜合頻道"  audio-track="eng" tvg-logo="https://zh.wikipedia.org/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%9633%E3%80%8133A#/media/File:RTHK_TV_33.svg" group-title="香港頻道",港台電視33
 dtv://antenna:62/dvb/33
-#EXTINF:0 tvg-id="" tvg-name="港台電視新聞直播"  audio-track="eng"  tvg-logo="https://zh.wikipedia.org/wiki/%E6%B8%AF%E5%8F%B0%E9%9B%BB%E8%A6%9633%E3%80%8133A#/media/File:RTHK_TV_33.svg" tvg-country="HK" tvg-url="" group-title="香港頻道",RTHK新聞直播(備)
+#EXTINF:0 tvg-id="" tvg-name="港台電視新聞直播"  audio-track="eng"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Radio_Television_Hong_Kong_Logo.svg" tvg-country="HK" tvg-url="" group-title="香港頻道",RTHK新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="翡翠台"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="香港頻道",翡翠台
 dtv://antenna:43/dvb/81
@@ -48,7 +48,7 @@ http://livetv.dnsfor.me/channel.18.m3u8
 dtv://antenna:35/dvb/84
 #EXTINF:0 tvg-id="" tvg-name="明珠台(備)"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="香港頻道",明珠台(備)
 http://61.238.6.49:8001/bysid/2.mpeg
-#EXTINF:0 tvg-id="" tvg-name="J2"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="香港頻道",J2(備)
+#EXTINF:0 tvg-id="" tvg-name="J2"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="香港頻道",J2
 dtv://antenna:35/dvb/82
 #EXTINF:0 tvg-id="" tvg-name="J2(備)"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="香港頻道",J2(備)
 https://cdn.hkdtmb.com/hls/82/index.m3u8
