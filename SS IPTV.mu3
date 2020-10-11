@@ -56,7 +56,7 @@ https://cdn.hkdtmb.com/hls/82/index.m3u8
 dtv://antenna:35/dvb/83
 #EXTINF:0 tvg-id="" tvg-name="無線新聞台(備)"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_News.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無線新聞台(備)
 http://96.45.185.192/tv.php?vid=wxxw
-#EXTINF:0 tvg-id="" tvg-name="無綫財經資訊台"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_Finance.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無綫財經資訊台(備)
+#EXTINF:0 tvg-id="" tvg-name="無綫財經資訊台"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_Finance.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無綫財經資訊台
 dtv://antenna:35/dvb/85
 #EXTINF:0 tvg-id="" tvg-name="無綫財經資訊台(備)"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_Finance.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無綫財經資訊台(備)
 http://96.45.185.192/tv.php?vid=wxcjzx
