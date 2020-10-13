@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://epg.best/18aec-cof8rg.xml.gz" x-tvg-url="https://epg.best/18aec-cof8rg.xml.gz"
 # 香港頻道
 #EXTINF:0 tvg-id="" tvg-name="有線新聞" audio-track="eng" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_News.png" group-title="香港頻道",有綫新聞台
 http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
