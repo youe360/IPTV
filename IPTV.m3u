@@ -210,7 +210,7 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5+.png" group-title="央視頻道",CCTV-5+ 體育賽事
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-6" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV6.png" group-title="央視頻道",CCTV-6 電影
-http://118.123.60.5:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=mull&Fsv_chan_hls_se_idx=093&Provider_id=&Pcontent_id=index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv6hd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-7" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV7.png" group-title="央視頻道",CCTV-7 國防軍事
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-7/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-8" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV8.png" group-title="央視頻道",CCTV-8 電視劇
@@ -224,9 +224,7 @@ http://117.169.124.36:6610/ysten-businessmobile/live/cctv-11/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-12" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV12.png" group-title="央視頻道",CCTV-12 社會與法
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-12/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-13" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央視頻道",CCTV-13 新聞
-http://61.151.179.194/tlivecloud-cdn.ysp.cctv.cn/001/2000204603.m3u8
-#EXTINF:-1 tvg-id="14" tvg-name="測試" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV13.png" group-title="央視頻道",CCTV-13 新聞測試
-http://ott.js.chinamobile.com/PLTV/3/224/3221227601/index.m3u8
+http://ivi.bupt.edu.cn/hls/cctv13.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-14" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV14.png" group-title="央視頻道",CCTV-14 少兒
 http://117.169.124.36:6610/ysten-businessmobile/live/cctv-14/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-15" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV15.png" group-title="央視頻道",CCTV-15 音樂
