@@ -35,23 +35,15 @@ https://cdn.hkdtmb.com/hls/33/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="港台電視新聞直播" tvg-language="Chinese;Cantonese" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" group-title="香港頻道",港台電視新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxianxinwentai.png" tvg-name="無線新聞" group-title="香港頻道",無綫新聞台
-http://61.238.6.49:8001/bysid/83
-#EXTINF:-1 tvg-id="" tvg-name="無綫財經資訊台" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_Finance.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無綫財經資訊台
-http://96.45.185.192/tv.php?vid=wxcjzx
+http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxiancaijingzixuntai.png" tvg-name="無線財經" group-title="香港頻道",無綫財經資訊台
-http://61.238.6.49:8001/bysid/85
+http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港頻道",翡翠台
 http://livetv.dnsfor.me/channel.18.m3u8
-#EXTINF:-1 tvg-id="FCT.HK" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" tvg-name="翡翠台" group-title="香港頻道",翡翠台
-http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 tvg-id="" tvg-name="明珠台" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="香港頻道",明珠台
-http://61.238.6.49:8001/bysid/2.mpeg
 #EXTINF:-1 tvg-id="MZT.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-name="明珠台" group-title="香港頻道",明珠台
 https://cdn.hkdtmb.com/hls/84/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="香港頻道",J2台
 https://cdn.hkdtmb.com/hls/82/index.m3u8
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBJ2.png" tvg-name="J2" group-title="香港頻道",J2台
-http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="" tvg-name="耀才財經台" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/bc/a6/30/bca6301a-e1b7-4c33-7ce9-e9188e987e06/source/256x256bb.jpg" group-title="香港頻道",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="香港頻道",鳳凰衛視資訊台
@@ -72,12 +64,26 @@ https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_lo_720p.m3u8
 http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
 #EXTINF:-1 tvg-id="FHW.CN" tvg-name="鳳凰中文" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="香港頻道",鳳凰衛視中文台
 http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="http://mo.heytv.org/wp-content/uploads/2018/12/1-1P5121Q245326.jpg" group-title="澳門頻道",澳視澳門台
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="澳門頻道",澳視MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTM3U
+# 澳門頻道
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳門頻道",澳視澳門
+http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="澳門頻道",澳視葡文
+http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="澳門頻道",澳視體育
+http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="澳門頻道",澳視資訊
 http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/1920px-TDM_Entertainment.png" group-title="澳門頻道",澳視綜藝
+http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/TDM_HD.png" group-title="澳門頻道",澳視高清
+http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="澳門頻道",澳視澳門
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png" group-title="澳門頻道",澳亞衛視
+http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
+#EXTINF:-1 group-title="澳門頻道",澳門蓮花
+http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
 #EXTM3U
 # 電影頻道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片1" tvg-logo="" tvg-country="HK" tvg-url="" group-title="電影",粵語影片1
@@ -219,7 +225,7 @@ http://112.50.243.8/PLTV/88888888/224/3221225881/1.m3u8
 http://112.50.243.8/PLTV/88888888/224/3221226708/1.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影",電影7HD
 http://112.50.243.8/PLTV/88888888/224/3221226712/1.m3u8
-#EXTM3U
+
 #EXTM3U
 # 台灣頻道
 #EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tvbsxw.png" tvg-name="TVBS新聞台" group-title="台灣頻道",TVBS新聞
@@ -236,7 +242,7 @@ http://seb.sason.top/sc/msxw_fhd.m3u8
 http://seb.sason.top/sc/slinews_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/三立新聞.png" tvg-name="三立新聞台" group-title="台灣頻道",三立Live
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tsxw.png" tvg-name="台視新聞台" group-title="臺灣地區",台視新聞台
+#EXTINF:-1 tvg-logo="http://tv.sason.xyz/logo/tsxw.png" tvg-name="台視新聞台" group-title="台灣頻道",台視新聞台
 http://seb.sason.top/sc/tsxw_fhd.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png" tvg-name="中視新聞" group-title="台灣頻道",中視新聞
 http://seb.sason.top/sc/zsxw_fhd.m3u8
@@ -1829,108 +1835,138 @@ https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="Fashion",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
 #EXTM3U
-# 泰國地區
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch3-hd.png" group-title ="泰國地區",3HD
+# 泰國頻道
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch3-hd.png" group-title ="泰國頻道",3HD
 https://www.livedoomovie.com/02_3HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch5.png" group-title ="泰國地區",5HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch5.png" group-title ="泰國頻道",5HD
 https://www.livedoomovie.com/02_5HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch7.png" group-title ="泰國地區",7HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/ch7.png" group-title ="泰國頻道",7HD
 https://www.livedoomovie.com/02_7HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/mcot.png" group-title ="泰國地區",MCOT HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/mcot.png" group-title ="泰國頻道",MCOT HD
 https://www.livedoomovie.com/02_MCOTHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/mcot.png" group-title ="泰國地區",MCOT HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/mcot.png" group-title ="泰國頻道",MCOT HD
 http://mcotdigital-pnnouc.cdn.byteark.com/mcothd1080p_edge/smil:mcothd1080p.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/pptv.png" group-title ="泰國地區",PPTV HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/pptv.png" group-title ="泰國頻道",PPTV HD
 https://www.livedoomovie.com/02_PPTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thairath.png" group-title ="泰國地區",THAIRATH HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/thairath.png" group-title ="泰國頻道",THAIRATH HD
 https://www.livedoomovie.com/02_THAIRATH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/true4u.png" group-title ="泰國地區",TRUE4U
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/true4u.png" group-title ="泰國頻道",TRUE4U
 https://www.livedoomovie.com/02_TRUE4U_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/mcot.png" group-title ="泰國地區",MCOT FAMILY
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/mcot.png" group-title ="泰國頻道",MCOT FAMILY
 https://www.livedoomovie.com/02_MCOTFAMILY_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/fantv.png" group-title ="泰國地區",FANMUSICHD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/fantv.png" group-title ="泰國頻道",FANMUSICHD
 https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="泰國地區",PremierHD1
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball1.png" group-title ="泰國頻道",PremierHD1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="泰國地區",PremierHD2
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball2.png" group-title ="泰國頻道",PremierHD2
 https://www.livedoomovie.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="泰國地區",PremierHD3
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball3.png" group-title ="泰國頻道",PremierHD3
 https://www.livedoomovie.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="泰國地區",PremierHD4
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball4.png" group-title ="泰國頻道",PremierHD4
 https://www.livedoomovie.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="泰國地區",PremierHD5
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/premierfootball5.png" group-title ="泰國頻道",PremierHD5
 https://www.livedoomovie.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="泰國地區",True Sport HD1
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport1.png" group-title ="泰國頻道",True Sport HD1
 https://www.livedoomovie.com/02_2sporthd1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title ="泰國地區",True Sport HD2
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport2.png" group-title ="泰國頻道",True Sport HD2
 https://www.livedoomovie.com/02_2sporthd2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="泰國地區",True Sport HD3
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport3.png" group-title ="泰國頻道",True Sport HD3
 https://www.livedoomovie.com/02_2sporthd3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="泰國地區",True Sport HD4
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-tsport4.png" group-title ="泰國頻道",True Sport HD4
 https://www.livedoomovie.com/02_2sporthd4_720p/chunklist.m3u8
-#EXTINF:-1 group-title="泰國地區" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
+#EXTINF:-1 group-title="泰國頻道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112204True_sport5.jpg",TRUE SPORT 5
 https://www.livedoomovie.com/02_sport5_480p/chunklist.m3u8
-#EXTINF:-1 group-title="泰國地區" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
+#EXTINF:-1 group-title="泰國頻道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112227True_sport6.jpg",TRUE SPORT 6
 https://www.livedoomovie.com/02_sport6_480p/chunklist.m3u8
-#EXTINF:-1 group-title="泰國地區" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
+#EXTINF:-1 group-title="泰國頻道" tvg-logo="https://imgcloud.fwiptv.cc/postor/20181125112240True_sport7.jpg",TRUE SPORT 7
 https://www.livedoomovie.com/02_sport7_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="泰國地區",Fox Sport1
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport1.png" group-title ="泰國頻道",Fox Sport1
 https://www.livedoomovie.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="泰國地區",Fox Sport2
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport2.png" group-title ="泰國頻道",Fox Sport2
 https://www.livedoomovie.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="泰國地區",Fox Sport3
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxsport3.png" group-title ="泰國頻道",Fox Sport3
 https://www.livedoomovie.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="泰國地區",Tennis HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/tennis.png" group-title ="泰國頻道",Tennis HD
 https://www.livedoomovie.com/02_TennisHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title ="泰國地區",NBA HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/nba.png" group-title ="泰國頻道",NBA HD
 https://www.livedoomovie.com/02_nbahd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/golf.png" group-title ="泰國地區",Golf HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/golf.png" group-title ="泰國頻道",Golf HD
 https://www.livedoomovie.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title ="泰國地區",HBO HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohd.png" group-title ="泰國頻道",HBO HD
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title ="泰國地區",HBO Hit
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/hbohits.png" group-title ="泰國頻道",HBO Hit
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="泰國地區",FoxMovies_TH
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="泰國頻道",FoxMovies_TH
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="泰國地區",FoxMovies
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxfamily.png" group-title ="泰國頻道",FoxMovies
 https://www.livedoomovie.com/02_FoxMoviesHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title ="泰國地區",FoxThai_TH
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/foxthai.png" group-title ="泰國頻道",FoxThai_TH
 https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/red.png" group-title ="泰國地區",RedbyHBO
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/red.png" group-title ="泰國頻道",RedbyHBO
 https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/axn.png" group-title ="泰國地區",AXN HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/axn.png" group-title ="泰國頻道",AXN HD
 https://www.livedoomovie.com/02_AXNHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/warner.png" group-title ="泰國地區",WarnerTV HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/warner.png" group-title ="泰國頻道",WarnerTV HD
 https://www.livedoomovie.com/02_WarnerTVHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/history.png" group-title ="泰國地區",HISTORY HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/history.png" group-title ="泰國頻道",HISTORY HD
 https://www.livedoomovie.com/02_HISTORYHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/h2hd.png" group-title ="泰國地區",H2 HD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/h2hd.png" group-title ="泰國頻道",H2 HD
 https://www.livedoomovie.com/02_H2HD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title ="泰國地區",DiscoveryChannel
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title ="泰國頻道",DiscoveryChannel
 https://www.livedoomovie.com/02_DiscoveryChannel/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title ="泰國地區",DiscoveryHDWorld
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/discovery.png" group-title ="泰國頻道",DiscoveryHDWorld
 https://www.livedoomovie.com/02_DiscoveryHDWorld/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/animalplanet.png" group-title ="泰國地區",AnimalPlanet
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/animalplanet.png" group-title ="泰國頻道",AnimalPlanet
 https://www.livedoomovie.com/02_AnimalPlanet/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8" group-title ="泰國地區",Sumrujlok
+#EXTINF:-1 tvg-logo="https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8" group-title ="泰國頻道",Sumrujlok
 https://www.livedoomovie.com/sumrujlok_goodtv/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png" group-title ="泰國地區",CartoonNetwork
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/cartoonnetwork.png" group-title ="泰國頻道",CartoonNetwork
 https://www.livedoomovie.com/02_CartoonNetwork_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/disneyxd.png" group-title ="泰國地區",DisneyXD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/disneyxd.png" group-title ="泰國頻道",DisneyXD
 https://www.livedoomovie.com/02_DisneyXD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title ="泰國地區",T_Sports
+#EXTINF:-1 tvg-logo="" group-title ="泰國頻道",T_Sports
 https://www.livedoomovie.com/02_T_Sports_480p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png" group-title ="泰國地區",MANGORN
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/MANGORN.png" group-title ="泰國頻道",MANGORN
 https://www.livedoomovie.com/02_MANGORN_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/fantv.png" group-title ="泰國地區",FANMUSICHD
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/fantv.png" group-title ="泰國頻道",FANMUSICHD
 https://www.livedoomovie.com/02_FANMUSICHD_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title ="泰國地區",Wish_Channel
+#EXTINF:-1 tvg-logo="" group-title ="泰國頻道",Wish_Channel
 https://www.livedoomovie.com/02_Wish_Channel_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NHK_WORLD_TV.png" group-title ="泰國地區",NHK_WORLD_TV
+#EXTINF:-1 tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/NHK_WORLD_TV.png" group-title ="泰國頻道",NHK_WORLD_TV
 https://www.livedoomovie.com/02_NHK_WORLD_TV_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title ="泰國地區",TrueFilmHD1
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title ="泰國頻道",TrueFilmHD1
 Https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title ="泰國地區",TrueFilmHD2
+#EXTINF:-1 tvg-logo="https://teevee-hd.com/img/truefilmhd.png" group-title ="泰國頻道",TrueFilmHD2
 Https://www.livedoomovie.com/02_TrueFilmHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="" group-title ="泰國地區",SARADEE99
+#EXTINF:-1 tvg-logo="" group-title ="泰國頻道",SARADEE99
 http://96.30.124.100:1935/edgepsi/PSIHD.stream_720p/playlist.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-10.png" group-title="泰國頻道",อนุบาลศึกษาปีที่  1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv10.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-11.png" group-title="泰國頻道",อนุบาลศึกษาปีที่  2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv11.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-12.png" group-title="泰國頻道",อนุบาลศึกษาปีที่ 3 
+http://dltv-live-edge.catcdn.cloud/playlist/dltv12.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-01.png" group-title="泰國頻道",ประถมศึกษาปีที่ 1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv01.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-02.png" group-title="泰國頻道",ประถมศึกษาปีที่ 2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv02.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-03.png" group-title="泰國頻道",ประถมศึกษาปีที่ 3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv03.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-04.png" group-title="泰國頻道",ประถมศึกษาปีที่ 4
+http://dltv-live-edge.catcdn.cloud/playlist/dltv04.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-05.png" group-title="泰國頻道",ประถมศึกษาปีที่ 5
+http://dltv-live-edge.catcdn.cloud/playlist/dltv05.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-06.png" group-title="泰國頻道",ประถมศึกษาปีที่ 6
+http://dltv-live-edge.catcdn.cloud/playlist/dltv06.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-07.png" group-title="泰國頻道",มัธยมศึกษาปีที่ 1
+http://dltv-live-edge.catcdn.cloud/playlist/dltv07.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-08.png" group-title="泰國頻道",มัธยมศึกษาปีที่ 2
+http://dltv-live-edge.catcdn.cloud/playlist/dltv08.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-09.png" group-title="泰國頻道",มัธยมศึกษาปีที่ 3
+http://dltv-live-edge.catcdn.cloud/playlist/dltv09.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-13.png" group-title="泰國頻道",มัธยมศึกษาปีที่ 4
+http://dltv-live-edge.catcdn.cloud/playlist/dltv13.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-14.png" group-title="泰國頻道",มัธยมศึกษาปีที่ 5
+http://dltv-live-edge.catcdn.cloud/playlist/dltv14.m3u8
+#EXTINF:-1 group-title="การศึกษา"tvg-logo="http://www.dltv.ac.th/themes/default/assets/images/DLTV/logo-channel-15.png" group-title="泰國頻道",มัธยมศึกษาปีที่ 6 
+http://dltv-live-edge.catcdn.cloud/playlist/dltv15.m3u8
