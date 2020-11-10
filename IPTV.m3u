@@ -10,8 +10,6 @@ http://livetv.dnsfor.me/channel.7.m3u8
 http://teslagram.com/live/channel_110.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="開電視" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/HK_Open_TV.png" group-title="香港頻道",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="V96.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/HKIBC.png" group-title="香港頻道",香港國際財經
-https://cdn.hkdtmb.com/hls/76/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://i.imgur.com/PtG4GsH.jpg" tvg-country="HK" tvg-url=""group-title="香港頻道",C+頻道
 http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Now直播331台" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" tvg-country="HK" tvg-url="" group-title="香港頻道",Now直播331台
@@ -39,19 +37,15 @@ http://livetv.dnsfor.me/channel.10.m3u8
 #EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxiancaijingzixuntai.png" tvg-name="無線財經" group-title="香港頻道",無綫財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港頻道",翡翠台
-http://livetv.dnsfor.me/channel.18.m3u8
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB明珠台.png" tvg-name="明珠台" group-title="香港頻道",明珠台
-https://cdn.hkdtmb.com/hls/84/index.m3u8
+http://61.238.6.49:8000/bysid/1
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" tvg-name="明珠台" group-title="香港頻道",明珠台
+http://61.238.6.49:8001/bysid/2
 #EXTINF:-1 tvg-id="" tvg-name="J2" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="香港頻道",J2台
-https://cdn.hkdtmb.com/hls/82/index.m3u8
+http://61.238.6.49:8001/bysid/82
 #EXTINF:-1 tvg-id="" tvg-name="耀才財經台" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/bc/a6/30/bca6301a-e1b7-4c33-7ce9-e9188e987e06/source/256x256bb.jpg" group-title="香港頻道",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰資訊" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" group-title="香港頻道",鳳凰衛視資訊台
 http://livetv.dnsfor.me/channel.21.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png" tvg-name="鳳凰資訊" group-title="香港頻道",鳳凰衛視資訊台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 tvg-id="FHJ.CN" tvg-name="鳳凰資訊" tvg-logo="https://poster.starhubgo.com/Linear_channels2/806_1920x1080_HTV.png" group-title="香港頻道",鳳凰衛視資訊台
-http://220.158.149.26:8182/hls/TV00000000000000000066@HHZT.m3u8
 #EXTINF:-1 tvg-id="FHX.CN" tvg-name="鳳凰香港" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="香港頻道",鳳凰衛視香港台
 http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
 #EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="鳳凰香港" group-title="香港頻道",鳳凰衛視香港台
@@ -59,11 +53,7 @@ http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV香港追擊搜" tvg-language="" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-country="HK" tvg-url="" group-title="香港頻道",ATV香港追擊搜
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Phoenix_Chinese.png" group-title="香港頻道",鳳凰衛視中文台
-https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_lo_720p.m3u8
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png" tvg-name="鳳凰中文" group-title="香港頻道",鳳凰衛視中文台
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 tvg-id="FHW.CN" tvg-name="鳳凰中文" tvg-logo="https://poster.starhubgo.com/Linear_channels2/805_1920x1080_HTV.png" group-title="香港頻道",鳳凰衛視中文台
-http://220.158.149.26:8182/hls/TV00000000000000000067@HHZT.m3u8
+https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_lo_7
 #EXTM3U
 # 澳門頻道
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳門頻道",澳視澳門
