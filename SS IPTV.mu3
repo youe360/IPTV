@@ -1,15 +1,13 @@
 #EXTM3U url-tvg="https://epg.best/18aec-cof8rg.xml.gz" x-tvg-url="https://epg.best/18aec-cof8rg.xml.gz"
 # 香港頻道
 #EXTINF:0 tvg-id="" tvg-name="有線新聞" audio-track="eng" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_News.png" group-title="香港頻道",有綫新聞台
-http://liveicm12.utvlive.top/live/97609933ef744f008e19a6e0d5ef9f2b/edd34677cc9548539d36b10c1c594b94-3.m3u8
+http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:0 tvg-id="" tvg-name="有線財經資訊" audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港頻道",有綫財經資訊台
-http://liveicm12.utvlive.top/live/add598ff3f90428da3fbebb644ba135b/2bbaa83758ba412bbdd8d08626c56eb4-3.m3u8
+http://livetv.dnsfor.me/channel.6.m3u8
 #EXTINF:0 tvg-id="" tvg-name="有線綜合娛樂"  audio-track="eng" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_Ent.png" group-title="香港頻道",有綫綜合娛樂台
-http://liveicm12.utvlive.top/live/d4e03afe056a4f2da070d5f789f3ac9e/a5ed7598a90246199df373924de367d4-3.m3u8
+http://livetv.dnsfor.me/channel.7.m3u8
 #EXTINF:0 tvg-id="" tvg-name="香港開電視"  audio-track="eng" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/HK_Open_TV.png" group-title="香港頻道",香港開電視
 dtv://antenna:21/dvb/77
-#EXTINF:0 tvg-id="" tvg-name="香港開電視(備)"  audio-track="eng" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/HK_Open_TV.png" group-title="香港頻道",香港開電視(備)
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-id="" tvg-name="香港國際財經台"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3a/HKIBC_logo.png" group-title="香港頻道",香港國際財經台
 dtv://antenna:21/dvb/76
 #EXTINF:0 tvg-id="" tvg-name="Now直播331台"  audio-track="eng" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" tvg-country="HK" tvg-url="" group-title="香港頻道",Now直播331台
@@ -18,48 +16,28 @@ http://livetv.dnsfor.me/channel.3.m3u8
 http://livetv.dnsfor.me:80/channel.4.m3u8
 #EXTINF:0 tvg-id="" tvg-name="Now Sports Prime 630" audio-track="eng" tvg-language="" tvg-logo="https://www.nettv.live/uploads/allimg/20/1-20040Q335270-L.jpg" tvg-country="HK" tvg-url="" group-title="香港頻道",Now Sports Prime 630
 http://livetv.dnsfor.me/channel.12.m3u8
-#EXTINF:0 tvg-id="" tvg-name="Now爆谷台"  audio-track="eng" tvg-language="" tvg-logo="https://asia.nowbaogumovies.com/baogucms/cmsfrontend/img/icons/baogu_logo_head.png" tvg-country="HK" tvg-url="" group-title="香港頻道",Now爆谷台
-https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ViuTV"  audio-track="eng" tvg-logo="https://static.viu.tv/viutv_logo.png" tvg-country="HK" tvg-url="" group-title="香港頻道",ViuTV
 dtv://antenna:43/dvb/99
-#EXTINF:0 tvg-id="" tvg-name="ViuTV(備)"  audio-track="eng" tvg-logo="https://static.viu.tv/viutv_logo.png" tvg-country="HK" tvg-url="" group-title="香港頻道",ViuTV(備)
-http://livetv.dnsfor.me:80/channel.20.m3u8
 #EXTINF:0 tvg-id="" tvg-name="ViuTVsix"  audio-track="eng" tvg-language="" tvg-logo="https://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg" tvg-country="HK" tvg-url="" group-title="香港頻道",ViuTVsix
 dtv://antenna:43/dvb/96
-#EXTINF:0 tvg-id="" tvg-name="ViuTVsix(備)"  audio-track="eng" tvg-language="" tvg-logo="https://static.viu.tv/14959a9afb6a26ee41fe5f6b88ea7cd7.jpg" tvg-country="HK" tvg-url="" group-title="香港頻道",ViuTVsix(備)
-http://hls.globaliptv.ml/viu96.php
 #EXTINF:0 tvg-id="" tvg-name="港台電視31"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" group-title="香港頻道",港台電視31
 dtv://antenna:62/dvb/31
-#EXTINF:0 tvg-id="" tvg-name="港台電視31(備)"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" group-title="香港頻道",港台電視31(備)
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8?v=20200211
 #EXTINF:0 tvg-id="" tvg-name="港台電視32"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="香港頻道",港台電視32
 dtv://antenna:62/dvb/32
-#EXTINF:0 tvg-id="" tvg-name="港台電視32(備)"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" group-title="香港頻道",港台電視32(備)
-https://www.rthk.hk/feeds/dtt/rthktv32_https.m3u8?v=20200211
-#EXTINF:0 tvg-id="" tvg-name="中央電視台綜合頻道"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1920px-RTHK_TV_33.svg.png" group-title="香港頻道",港台電視33
+#EXTINF:0 tvg-id="" tvg-name="港台電視33"  audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1920px-RTHK_TV_33.svg.png" group-title="香港頻道",港台電視33
 dtv://antenna:62/dvb/33
 #EXTINF:0 tvg-id="" tvg-name="港台電視新聞直播"  audio-track="eng"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/44/Radio_Television_Hong_Kong_Logo.svg" tvg-country="HK" tvg-url="" group-title="香港頻道",RTHK新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
 #EXTINF:0 tvg-id="" tvg-name="翡翠台"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="香港頻道",翡翠台
 dtv://antenna:43/dvb/81
-#EXTINF:0 tvg-id="" tvg-name="翡翠台(備)"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/8/88/Tvb_Jade_cap.png" group-title="香港頻道",翡翠台(備)
-http://livetv.dnsfor.me/channel.18.m3u8
 #EXTINF:0 tvg-id="" tvg-name="明珠台"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="香港頻道",明珠台
 dtv://antenna:35/dvb/84
-#EXTINF:0 tvg-id="" tvg-name="明珠台(備)"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" group-title="香港頻道",明珠台(備)
-http://61.238.6.49:8001/bysid/2.mpeg
 #EXTINF:0 tvg-id="" tvg-name="J2"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="香港頻道",J2
 dtv://antenna:35/dvb/82
-#EXTINF:0 tvg-id="" tvg-name="J2(備)"  audio-track="eng" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" group-title="香港頻道",J2(備)
-https://cdn.hkdtmb.com/hls/82/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="無線新聞台"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_News.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無線新聞台
 dtv://antenna:35/dvb/83
-#EXTINF:0 tvg-id="" tvg-name="無線新聞台(備)"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_News.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無線新聞台(備)
-http://96.45.185.192/tv.php?vid=wxxw
 #EXTINF:0 tvg-id="" tvg-name="無綫財經資訊台"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_Finance.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無綫財經資訊台
 dtv://antenna:35/dvb/85
-#EXTINF:0 tvg-id="" tvg-name="無綫財經資訊台(備)"  audio-track="eng" tvg-language="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/TVB_Finance.png" tvg-country="HK" tvg-url="" group-title="香港頻道",無綫財經資訊台(備)
-http://96.45.185.192/tv.php?vid=wxcjzx
 #EXTINF:0 tvg-id="" tvg-name="C+頻道"  audio-track="eng" tvg-language="Chinese;Cantonese" tvg-logo="https://i.imgur.com/PtG4GsH.jpg" tvg-country="HK" tvg-url=""group-title="香港頻道",C+頻道
 http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
 #EXTINF:0 tvg-id="" tvg-name="耀才財經台"  audio-track="eng" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/bc/a6/30/bca6301a-e1b7-4c33-7ce9-e9188e987e06/source/256x256bb.jpg" group-title="香港頻道",耀才財經台
