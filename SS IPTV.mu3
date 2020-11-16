@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="https://epg.best/18aec-cof8rg.xml.gz" x-tvg-url="https://epg.best/18aec-cof8rg.xml.gz"
 # 香港頻道
-#EXTINF:0 tvg-id="" tvg-name="有線新聞" audio-track="eng" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_News.png" group-title="香港頻道",有綫新聞台
+#EXTINF:0 tvg-id="" tvg-name="有線新聞" audio-track="eng" tvg-logo="https://github.com/Mysuper360/Logo/blob/main/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E_Cable_News.png?raw=true" group-title="香港頻道",有綫新聞台
 http://livetv.dnsfor.me:80/channel.5.m3u8
 #EXTINF:0 tvg-id="" tvg-name="有線財經資訊" audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/7/7a/I-CABLE_Finance.png" group-title="香港頻道",有綫財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
