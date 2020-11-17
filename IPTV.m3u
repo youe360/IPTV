@@ -48,12 +48,10 @@ http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 http://livetv.dnsfor.me/channel.21.m3u8
 #EXTINF:-1 tvg-id="FHX.CN" tvg-name="鳳凰香港" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" group-title="香港頻道",鳳凰衛視香港台
 http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangxianggang.png" tvg-name="鳳凰香港" group-title="香港頻道",鳳凰衛視香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ATV香港追擊搜" tvg-language="" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-country="HK" tvg-url="" group-title="香港頻道",ATV香港追擊搜
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="鳳凰中文" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Phoenix_Chinese.png" group-title="香港頻道",鳳凰衛視中文台
-https://0c2a4b66b4507225496222b26a9d35f3.live.prod.hkatv.com/p3_cbr_lo_7
+http://112.17.40.139/PLTV/88888888/224/3221226368/index.m3u8?
 #EXTM3U
 # 澳門頻道
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳門頻道",澳視澳門
@@ -73,7 +71,7 @@ http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png" group-title="澳門頻道",澳亞衛視
 http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
 #EXTINF:-1 group-title="澳門頻道",澳門蓮花
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
+http://hls222.dszbdq.cn/amlh.php
 #EXTM3U
 # 電影頻道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片1" tvg-logo="" tvg-country="HK" tvg-url="" group-title="電影頻道",粵語影片1
@@ -84,14 +82,12 @@ https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137
 https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10317
-#EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO(TH)
-https://liveorigin01.hbogoasia.com:8443/origin/live/HBO/index.m3u8?HBO
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-hbohits.jpg",HBO Hits
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/HITS/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/HITS/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://il.mahidol.ac.th/upload/img/2020-08-04-071906.jpg",HBO Family
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/FAMILY/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://www.we-play.tv/wp-content/uploads/2019/01/hbo-signature.jpg",HBO Signature
-https://liveorigin01.hbogoasia.com:8443/origin/live/main/SIG/index.m3u8
+https://liveorigin01.hbogoasia.com:8443/origin/live/FAMILY/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="電影頻道"tvg-logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-screenred.jpg",Red by HBO
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png",Cinemax
@@ -109,15 +105,11 @@ http://39.134.182.236/PLTV/88888888/224/3221226178/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",影視 5
 http://39.134.182.236/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",貝爺影廳
-http：//tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_2000.flv
+http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_2000.flv
 #EXTINF:-1 tvg-id="" tvg-name="KK金馬影院" tvg-logo="" group-title="電影頻道",KK金馬影院
 http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",峨嵋山影視
 https://dlhls-cdn-mp.zhanqi.tv/zqlive/295519_JkFS8.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",峨眉電影
-http://219.145.171.78/scgctvshow.sctv.com/hdlive/emei/1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="鳳凰電影" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/a/a0/Phoenix_Movies.svg/200px-Phoenix_Movies.svg.png" group-title="電影頻道",鳳凰衛視電影台
-https://www.fanmingming.cn/hls/fhdy.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",亞洲影院
 http://125.210.152.21:9120/live/YZYY.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",香港電影1
@@ -127,17 +119,17 @@ http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",香港電影3
 http://tx2play1.douyucdn.cn/85894rmovieChow_4000p.xs?uuid=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",黑莓電影
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225530/index.m3u8
+http://ott.fj.chinamobile.com/PLTV/88888888/224/3221225891/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",開心影院
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",精彩電影高清2K
-http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226011/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",CHC家庭影院2K
-http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226462/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",CHC高清電影2K
-http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226463/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",CHC動作電影2K
-http：//dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226465/index.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影頻道",首映電影
 http://szdl.3322.org:8888/rtp/233.50.201.239:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影頻道",環球電影
@@ -158,8 +150,6 @@ http://szdl.3322.org:8888/rtp/233.50.201.235:5140
 http://szdl.3322.org:8888/rtp/233.50.201.234:5140
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/movies.png" group-title="電影頻道",熱門綜藝
 http://szdl.3322.org:8888/rtp/233.50.201.233:5140
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/MarvelLogo.svg/1920px-MarvelLogo.svg.png" group-title="電影頻道",漫威電影
-http://migu-bd.hls.huya.com/src/1448738325-1448738325-6222283726336819200-3048991600-10057-A-0-1.m3u8
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="電影頻道",亞洲影院
 http://112.17.40.210/wh7f454c46tw2723754360_1011858318/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221228365/index.m3u8?fmt=ts2hls&icpid=88888888&from=30&RTS=1592890129&hms_devid=1461&online=1592890129&vqe=1
 #EXTINF:-1 tvg-logo="http://gitee.com/dyanj311/iptv/raw/master/logo/wasu.png" group-title="電影頻道",歐美影院
@@ -168,60 +158,10 @@ http://112.17.40.199/wh7f454c46tw2819951733_-141826655/hwltc.tv.cdn.zj.chinamobi
 http://42.56.91.136/live-bvc/164219/live_97065163_17925468.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",成龍
 http://hpull.kktv8.com/livekktv/111536805/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",成龍
-http://migu-bd.hls.huya.com/src/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1-imgplus.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",黃渤
 http://tv.rdys888.top/bak/proxy/youku.php?id=8021910
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",劉德華
 http://170.178.163.226:5000/huya/11342424
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",劉德華
-http://migu-bd.hls.huya.com/src/1394575547-1394575547-5989656366166310912-2789274550-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",周星馳
-http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-492-1015-0050-36682_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1603807810&vkey=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",周潤發
-http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-496-1015-0050-43677_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1603808325&vkey=
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",周潤發
-http://migu-bd.hls.huya.com/src/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",林正英
-http://migu-bd.hls.huya.com/src/94525224-2460686034-10568566041753944064-2789274542-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",梁朝偉
-http://migu-bd.hls.huya.com/src/1524434091-1524434091-6547394565752487936-3048991638-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",張學友
-http://migu-bd.hls.huya.com/src/1423782077-1423782077-6115097457345953792-2847687610-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",李連杰
-http://migu-bd.hls.huya.com/src/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",甄子丹
-http://migu-bd.hls.huya.com/src/1423787820-1423787820-6115122123343134720-2847699096-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",任達華
-http://migu-bd.hls.huya.com/src/1449597183-1449597183-6225972493358727168-2847687548-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",洪金寶
-http://migu-bd.hls.huya.com/src/1394575551-1394575551-5989656383346180096-2789274558-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",古天樂
-http://migu-bd.hls.huya.com/src/1081939992-1081939992-4646896881874501632-2164003440-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",徐崢
-http://migu-bd.hls.huya.com/src/1524434085-1524434085-6547394539982684160-3048991626-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",金庸
-http://migu-bd.hls.huya.com/src/1449584124-1449584124-6225916405380808704-2847687586-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",最佳搭檔系列
-http://migu-bd.hls.huya.com/src/1448738224-1448738224-6222283292545122304-2789253866-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",五福星系列
-http://migu-bd.hls.huya.com/src/1356780980-1356780980-5827329936934830080-2713685416-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",黑幫系列
-http://migu-bd.hls.huya.com/src/30765679-2523417522-10837995731143360512-2777068634-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",女神系列
-http://migu-bd.hls.huya.com/src/94525224-2472147404-10617792251071299584-2777026638-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",搞笑港片
-http://migu-bd.hls.huya.com/src/1524418070-1524418070-6547325756081438720-3048959596-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",喜劇片
-http://migu-bd.hls.huya.com/src/30765679-2554414680-10971127511022305280-3048991634-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",賭片
-http://migu-bd.hls.huya.com/src/29106097-2689446042-11551082794746642432-2789253870-10057-A-0-1-imgplus.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",動作片
-http://migu-bd.hls.huya.com/src/1524439840-1524439840-6547419257519472640-3049003136-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",災難片
-http://migu-bd.hls.huya.com/src/1423782025-1423782025-6115097234007654400-2847687506-10057-A-0-1.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",金庸武俠
-http://lvo-live.youku.com/vod2live/03000700005CACE3B173FEA330EC2DBB6D42B3-B932-464D-8DCC-E820CFF5DA5D-1-110-LIVE-559-1015-0031-35150_mp4hd2v3.m3u8?&expire=21600&psid=1&ups_ts=1603808565&vkey=
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",電影1HD
 http://112.17.40.140/PLTV/88888888/224/3221226176/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",電影2HD
@@ -252,68 +192,8 @@ http://666.stop.kim/douyu.php?id=248753
 http://666.stop.kim/douyu.php?id=248753
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影8
 http://666.stop.kim/douyu.php?id=36337
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影11
-http://blank.m.awhost.cn/douyu.php?id=4505431
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影12
-http://blank.m.awhost.cn/douyu.php?id=5581257
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影13
-http://blank.m.awhost.cn/douyu.php?id=5423
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影14
-http://blank.m.awhost.cn/douyu.php?id=3708807
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影15
-http://blank.m.awhost.cn/douyu.php?id=2793084
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影16
-http://blank.m.awhost.cn/douyu.php?id=1226741
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影17
-http://blank.m.awhost.cn/douyu.php?id=7882691
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影18
-http://blank.m.awhost.cn/douyu.php?id=7077241
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影19
-http://blank.m.awhost.cn/douyu.php?id=470075
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影015
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影9
 http://tx2play1.douyucdn.cn/live/252802rbQGaZXUQi_4000p.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影016
-http://tx2play1.douyucdn.cn/live/315457rrlN8hQ7Dz_4000p.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影017
-http://tx2play1.douyucdn.cn/live/248753rtRfk7reV0_4000p.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影018
-http://tx2play1.douyucdn.cn/live/2935323rN5MByy6M_4000p.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影019
-http://tx2play1.douyucdn.cn/live/36337rQEQKHVaPDJ_4000p.flv
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影20
-http://blank.m.awhost.cn/douyu.php?id=2466104
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影21
-http://blank.m.awhost.cn/douyu.php?id=562225
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影22
-http://blank.m.awhost.cn/douyu.php?id=6763930
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影23
-http://blank.m.awhost.cn/douyu.php?id=2436390
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影24
-http://blank.m.awhost.cn/douyu.php?id=4290711
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影25
-http://blank.m.awhost.cn/douyu.php?id=8921999
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影26
-http://blank.m.awhost.cn/douyu.php?id=5522351
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影27
-http://blank.m.awhost.cn/douyu.php?id=194049
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影28
-http://blank.m.awhost.cn/douyu.php?id=8554379
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影29
-http://blank.m.awhost.cn/douyu.php?id=5127679
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影30
-http://blank.m.awhost.cn/douyu.php?id=7359565
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影31
-http://blank.m.awhost.cn/douyu.php?id=1023812
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影32
-http://blank.m.awhost.cn/douyu.php?id=2230942
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影33
-http://blank.m.awhost.cn/douyu.php?id=7984182
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影34
-http://blank.m.awhost.cn/douyu.php?id=9052766
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影35
-http://blank.m.awhost.cn/douyu.php?id=7495810
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",鬥魚電影36
-http://blank.m.awhost.cn/douyu.php?id=7412199
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",YY 1
 http://sousou2.top/dl/yy1.php?t=29900720
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="電影頻道",YY 2
@@ -2265,4 +2145,3 @@ http://wfc.bonus-tv.ru:80/cdn/wfcint/tracks-v2a1/index.m3u8
 https://vcnbikininetwork.teleosmedia.com/stream/bikininetwork/a3bikini/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.parsatv.com/index_files/channels/jasmintv.png" group-title="時尚潮流",Jasmin TV
 http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-
