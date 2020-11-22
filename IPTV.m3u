@@ -1,4 +1,7 @@
 #EXTM3U
+
+#EXTM3U url-tvg="https://git.io/Jkleu"
+
 # 香港頻道
 #EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="https://github.com/Mysuper360/Logo/blob/main/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E_Cable_News.png?raw=true" tvg-name="有線新聞" group-title="香港頻道",有線新聞台
 http://livetv.dnsfor.me:80/channel.5.m3u8
