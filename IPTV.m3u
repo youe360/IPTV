@@ -1,80 +1,95 @@
-#EXTM3U
-
 #EXTM3U url-tvg="https://git.io/Jkleu"
-
 # 香港頻道
-#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="https://github.com/Mysuper360/Logo/blob/main/%E6%9C%89%E7%B7%9A%E6%96%B0%E8%81%9E_Cable_News.png?raw=true" tvg-name="有線新聞" group-title="香港頻道",有線新聞台
+#EXTINF:-1 tvg-ID="YXW.HK" tvg-logo="https://rb.gy/e83tun" tvg-name="有線新聞" group-title="香港頻道",有線新聞台
 http://livetv.dnsfor.me:80/channel.5.m3u8
-#EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="https://github.com/Mysuper360/Logo/blob/main/%E6%9C%89%E7%B6%AB%E8%B2%A1%E7%B6%93%E8%B3%87%E8%A8%8A%E5%8F%B0_I-CABLE_Finance.png?raw=true" tvg-name="有線財經資訊" group-title="香港頻道",有線財經資訊台
+#EXTINF:-1 tvg-ID="YCJ.HK" tvg-logo="https://rb.gy/gxr0zk" tvg-name="有線財經資訊" group-title="香港頻道",有線財經資訊台
 http://livetv.dnsfor.me/channel.6.m3u8
-#EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Cable_Ent.png" tvg-name="有線綜合娛樂台" group-title="香港頻道",有線綜合娛樂台
+#EXTINF:-1 tvg-ID="YYL.HK" tvg-logo="https://rb.gy/z4axvr" tvg-name="有線綜合娛樂台" group-title="香港頻道",有線綜合娛樂台
 http://livetv.dnsfor.me/channel.7.m3u8
-#EXTINF:-1 tvg-id="YZB.HK" tvg-logo="https://raw.githubusercontent.com/Mysuper360/Logo/main/i-CABLE%20Live%20News%20Channel.png" tvg-name="有線直播新聞台" group-title="香港頻道",有線直播新聞台
+#EXTINF:-1 tvg-id="YZB.HK" tvg-logo="https://rb.gy/os4eh1" tvg-name="有線直播新聞台" group-title="香港頻道",有線直播新聞台
 http://teslagram.com/live/channel_110.m3u8
-#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/HK_Open_TV.png" tvg-name="開電視" group-title="香港頻道",香港開電視
+#EXTINF:-1 tvg-id="KAI.HK" tvg-logo="https://rb.gy/apxvr7" tvg-name="開電視" group-title="香港頻道",香港開電視
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Now_Live_News_logo.svg/1200px-Now_Live_News_logo.svg.png" tvg-country="HK" tvg-url="" tvg-name="Now直播331台" group-title="香港頻道",Now直播331台
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="https://rb.gy/kshrvf" tvg-country="HK" tvg-url="" tvg-name="Now直播331台" group-title="香港頻道",Now直播331台
 http://livetv.dnsfor.me/channel.3.m3u8
-#EXTINF:-1 tvg-id=NOW.HK"" tvg-name="Now新聞332台" tvg-language="" tvg-logo="https://news.now.com/revamp2014/images/logo.png" tvg-country="HK" tvg-url="" group-title="香港頻道",Now新聞332台
+#EXTINF:-1 tvg-id=NOW.HK"" tvg-name="Now新聞台" tvg-language="" tvg-logo="https://rb.gy/p0eiwo" tvg-country="HK" tvg-url="" group-title="香港頻道",Now新聞台
 http://livetv.dnsfor.me:80/channel.4.m3u8
-#EXTINF:-1 tvg-id="NOP.HK" tvg-logo="http://static.epg.best/hk/NowSportsPrime.hk.png" tvg-name="Now Sports 精選" group-title="香港頻道",Now Sports Prime 630
+#EXTINF:-1 tvg-id="NOP.HK" tvg-logo="https://rb.gy/8cpcyd" tvg-name="Now Sports Prime" group-title="香港頻道",Now Sports Prime 630
 http://teslagram.com/live/channel_630.m3u8
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/Viu%20TV.png" tvg-name="ViuTV" group-title="香港頻道",ViuTV
+#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://rb.gy/ftgamq" tvg-name="ViuTV" group-title="香港頻道",ViuTV
 http://61.238.6.49:8000/bysid/99
-#EXTINF:-1 tvg-id="V99.HK" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/326px-ViuTVsix-logo.svg.png" group-title="香港頻道",ViuTV 6
-https://cdn.hkdtmb.com/hls/96/index.m3u8
-#EXTINF:-1 tvg-id="V96.HK" tvg-name="ViuTV 6" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/ViuTVsix-logo.svg/326px-ViuTVsix-logo.svg.png" tvg-country="HK" tvg-url="" group-title="香港頻道",ViuTV 6
+#EXTINF:-1 tvg-id="V96.HK" tvg-name="ViuTV 6" tvg-language="" tvg-logo="https://rb.gy/po9v07" tvg-country="HK" group-title="香港頻道",ViuTV 6
 http://61.238.6.49:8000/bysid/96
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/RTHK_TV_31.svg/320px-RTHK_TV_31.svg.png" tvg-name="港台電視31" group-title="香港頻道",港台電視31
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/pqjvze" tvg-name="港台電視31" group-title="香港頻道",港台電視31
 https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-b.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/440px-RTHK_TV_32.svg.png" tvg-name="港台電視32" group-title="香港頻道",港台電視32
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/jacmtb" tvg-name="港台電視32" group-title="香港頻道",港台電視32
 https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_1080_av-p.m3u8
-#EXTINF:-1 tvg-id="" audio-track="eng" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/RTHK_TV_33.svg/1920px-RTHK_TV_33.svg.png" tvg-name="港台電視33" group-title="香港頻道",港台電視33
-https://cdn.hkdtmb.com/hls/33/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/RTHK_TV_32.svg/1200px-RTHK_TV_32.svg.png" tvg-country="HK" tvg-url="" tvg-name="港台電視新聞直播" group-title="香港頻道",港台電視新聞直播
+#EXTINF:-1 tvg-id="" audio-track="eng" tvg-logo="https://rb.gy/0rw9zh" tvg-name="港台電視33" group-title="香港頻道",港台電視33
+
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="https://rb.gy/8vzhqs" tvg-country="HK" tvg-url="" tvg-name="港台電視新聞直播" group-title="香港頻道",港台電視新聞直播
 http://rthkcnews-lh.akamaihd.net:80/i/rthknews_1@312607/index_190000011_av-p.m3u8
-#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxianxinwentai.png" tvg-name="無線新聞" group-title="香港頻道",無綫新聞台
+#EXTINF:-1 tvg-id="WXX.HK" tvg-logo="https://rb.gy/vpbeyy" tvg-name="無線新聞" group-title="香港頻道",無綫新聞台
 http://livetv.dnsfor.me/channel.10.m3u8
-#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://raw.githubusercontent.com/badboys88888/photo/main/wuxiancaijingzixuntai.png" tvg-name="無線財經" group-title="香港頻道",無綫財經資訊台
+#EXTINF:-1 tvg-id="WXC.HK" tvg-logo="https://rb.gy/fwgmsk" tvg-name="無線財經" group-title="香港頻道",無綫財經資訊台
 http://livetv.dnsfor.me/channel.11.m3u8
-#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://vignette.wikia.nocookie.net/kidvskat/images/6/63/J2.png/revision/latest/scale-to-width-down/200?cb=20140508002332" tvg-name="翡翠J2台" group-title="香港頻道",J2台
+#EXTINF:-1 tvg-id="FC2.HK" tvg-logo="https://rb.gy/cawsmu" tvg-name="翡翠J2台" group-title="香港頻道",J2台
 http://61.238.6.49:8001/bysid/82
-#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://poster.starhubgo.com/Linear_channels2/838_1920x1080_HTV.png" group-title="香港頻道",翡翠台
-http://61.238.6.49:8000/bysid/1
-#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://static.wikia.nocookie.net/evchk/images/d/d2/TVB_Pearl.png" tvg-name="明珠台" group-title="香港頻道",明珠台
+#EXTINF:-1 tvg-id="" tvg-name="翡翠台" tvg-logo="https://rb.gy/x4jaqz" group-title="香港頻道",翡翠台
+http://livetv.dnsfor.me/channel.18.m3u8
+#EXTINF:-1 tvg-id="MZT.HK" tvg-logo="https://rb.gy/khz3hv" tvg-name="明珠台" group-title="香港頻道",明珠台
 http://61.238.6.49:8001/bysid/2
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Chinese;Cantonese" tvg-logo="https://i.imgur.com/PtG4GsH.jpg" tvg-country="HK" tvg-url=""group-title="香港頻道",C+頻道
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="" tvg-logo="https://rb.gy/3yanoy" tvg-country="HK" tvg-url=""group-title="香港頻道",C+頻道
 http://liveima.utvlive.top/livehls/MOB-U1-NO/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="耀才財經台" tvg-logo="https://is3-ssl.mzstatic.com/image/thumb/Purple115/v4/bc/a6/30/bca6301a-e1b7-4c33-7ce9-e9188e987e06/source/256x256bb.jpg" group-title="香港頻道",耀才財經台
+#EXTINF:-1 tvg-id="" tvg-name="耀才財經台" tvg-logo="https://rb.gy/kjnpq5" group-title="香港頻道",耀才財經台
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/1/16/Phoenix_InfoNews.svg/1200px-Phoenix_InfoNews.svg.png" tvg-name="鳳凰資訊" group-title="香港頻道",鳳凰衛視資訊台
+#EXTINF:-1 tvg-id="FHJ.CN" tvg-logo="https://rb.gy/pmlf2f" tvg-name="鳳凰資訊" group-title="香港頻道",鳳凰衛視資訊台
 http://livetv.dnsfor.me/channel.21.m3u8
-#EXTINF:-1 tvg-id="FHX.CN" tvg-logo="http://tv.sason.xyz/logo/fhxg.png" tvg-name="鳳凰香港" group-title="香港頻道",鳳凰衛視香港台
-http://220.158.149.28:8180/TV00000000000000000068@HHZT;LIVE
-#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="https://www.hkatv.com/images/atv_logo_200x200.png" tvg-country="HK" tvg-url="" tvg-name="ATV香港追擊搜" group-title="香港頻道",ATV香港追擊搜
+#EXTINF:-1 tvg-id="FHX.CN" tvg-logo="https://rb.gy/b2c2vr" tvg-name="鳳凰香港" group-title="香港頻道",鳳凰衛視香港台
+http://livetv.dnsfor.me/channel.16.m3u8
+#EXTINF:-1 tvg-id="" tvg-language="" tvg-logo="https://rb.gy/po7oqt" tvg-country="HK" tvg-url="" tvg-name="ATV香港追擊搜" group-title="香港頻道",ATV香港追擊搜
 https://15813114727637862976168173814320.live.prod.hkatv.com/a1_cbr_hi_1080p.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://github.com/hououinkami/AppleTV/raw/master/ChannelLogo/Hongkong/Phoenix_Chinese.png" tvg-name="鳳凰中文" group-title="香港頻道",鳳凰衛視中文台
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/xdxgr1" tvg-name="鳳凰中文" group-title="香港頻道",鳳凰衛視中文台
 http://112.17.40.139/PLTV/88888888/224/3221226368/index.m3u8?
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/opr7sq" group-title="香港頻道",創世電視
+https://cdn.deepcore.online/hlsme/ctv_hk.m3u8
+
 #EXTM3U
 # 澳門頻道
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png" group-title="澳門頻道",澳視澳門
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/by4mta" group-title="澳門頻道",澳視澳門
 http://live3.tdm.com.mo:1935/ch1/ch1.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/4/4e/Canal_Macau.png" group-title="澳門頻道",澳視葡文
-http://live3.tdm.com.mo:1935/ch2/ch2.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/TDMSport.png" group-title="澳門頻道",澳視體育
+#EXTINF:-1 tvg-logo="https://rb.gy/fzuurv" group-title="澳門頻道",澳視體育
 http://live4.tdm.com.mo:80/ch4/_definst_/sport_ch4.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg" group-title="澳門頻道",澳視資訊
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/1920px-TDM_Entertainment.png" group-title="澳門頻道",澳視綜藝
+#EXTINF:-1 tvg-logo="https://rb.gy/yh3ycl" group-title="澳門頻道",澳視高清
 http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/3/3c/TDM_HD.png" group-title="澳門頻道",澳視高清
-http://live4.tdm.com.mo:80/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/0/09/TDM-Macau_Sat%C3%A9llite.png" group-title="澳門頻道",澳視澳門
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/d/d6/MASTV.png" group-title="澳門頻道",澳亞衛視
-http://220.158.149.28:8180/live/TV00000000000000000030@HHZT
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/c/ca/Lotus_Macau.png" group-title="澳門頻道",澳門蓮花
+#EXTINF:-1 tvg-logo="https://rb.gy/3wfzvv" group-title="澳門頻道",澳門蓮花
 http://hls222.dszbdq.cn/amlh.php
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/lppuwz" group-title="澳門頻道",澳視澳門台
+http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/4g07sx" group-title="澳門頻道",澳視綜藝
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/mu8val" group-title="澳門頻道",澳視葡文
+http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/mu8val" group-title="澳門頻道",澳視MACAU
+http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/bl8jqg" group-title="澳門頻道",澳視資訊
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/wok67i" group-title="澳門頻道",澳門立法會直播
+https://live4.tdm.com.mo/tv/ch21.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/wok67i" group-title="澳門頻道",澳門立法會直播 (葡文)
+https://live4.tdm.com.mo/tv/ch22.live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/puhwty" group-title="澳門頻道",澳門有線 CH1
+http://202.175.127.77/live/show/ch1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/hqp9zu" group-title="澳門頻道",澳門有線互動新聞
+http://202.175.127.77/live/show/ch2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/yvpwby" group-title="澳門頻道",澳門有線 CH3
+http://202.175.127.77/live/show/ch3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/vqf9pp" group-title="澳門頻道",熱血時報
+http://ptmirror3.passiontimes.hk/hls3/582000/stream.m3u8
+#EXTINF:-1 tvg-id="AOY.MO" tvg-logo="https://rb.gy/mldso7" group-title="澳門頻道",澳亞衛視
+http://mastvnet-hwcdn.utvlive.top/4rlff1m/1024/live.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://rb.gy/cypcpd" group-title="澳門頻道",Lotus Macau
+http://103.130.186.138:8800/oxygenplay/lotusmacau/index.m3u8
+
 #EXTM3U
 # 電影頻道
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="粵語影片1" tvg-logo="https://lh3.googleusercontent.com/GRFqqFh-QB893NCny3LlMXzc-d1d4ttvu5Iv9aC03acU5y0YsvjGLgNDGpjPqVSl4Nc" tvg-country="HK" tvg-url="" group-title="電影頻道",粵語影片1
@@ -85,8 +100,10 @@ https://cn-jssz-cmcc-live-01.bilivideo.com/live-bvc/933996/live_88547185_8335137
 https://myun-hw-s3.myun.tv/melj80jz/0ezv7bya/1585467130841903485.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/Pos/309_300.png" tvg-name="天映頻道HD" group-title="電影頻道",天映頻道HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10298
+#EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://rb.gy/nmgbmy",FOX MOVIES HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/1711
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO HD
-http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10317
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/71057
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://download.logo.wine/logo/Cinemax/Cinemax-Logo.wine.png",Cinemax HD
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10318
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://blob.panzoid.com/creation-thumbnails/97670.jpg",HBO
@@ -103,6 +120,8 @@ https://liveorigin01.hbogoasia.com:8443/origin/live/main/RED/index.m3u8
 https://liveorigin01.hbogoasia.com:8443/origin/live/main/MAX/index.m3u8
 #EXTINF:-1 tvg-chno="" group-title="電影頻道" tvg-logo="https://images.iptvhero.com/channel/hd-axn.png",AXN (true visions)
 http://ip2121.com:8081/live2/AXN_Y/playlist.m3u8
+
+
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" group-title="電影頻道",影視 1
 http://39.134.182.236/PLTV/88888888/224/3221226245/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://png.pngtree.com/element_our/20190603/ourlarge/pngtree-movie-props-playing-board-image_1433129.jpg" group-title="電影頻道",影視 2
@@ -561,6 +580,8 @@ http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
 http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
 #EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e9/TVBS_Asia_logo_2017.png" group-title="台灣頻道",TVBS-Asia 無線衛星亞洲台
 http://1milltvbox.loginto.me:25461/M4uzYQ1cuG/rYPeX9wRwT/10304
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.epg.best/us/HopeChannel.us.png" group-title="台灣頻道",希望電視
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/index_1200_av-p.m3u8
 
 #EXTM3U
 # 日本頻道
@@ -2095,6 +2116,134 @@ http://178.132.3.162:88/Baraem/video.m3u8?token=test
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_tv/hls1/saudi_tv.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="奧林匹克頻道" tvg-language="" tvg-logo="https://www.olympicchannel.com/Images/Static/OC-Logo-Horizontal.png" tvg-country="" tvg-url="" group-title="體育頻道",奧林匹克頻道
 http://ott-live.olympicchannel.com/out/u/OC1_1.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="ACC NETWORK" tvg-logo="" group-title="體育頻道",ACC NETWORK
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/49954
+#EXTINF:-1 tvg-id="at.t.sportsnet.southwest.houston.us" tvg-name="ATT_SportsNet_SW_ALT" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US149ATT_SportsNet_SW_ALT.png" group-title="體育頻道",ATT_SportsNet_SW_ALT
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30041
+#EXTINF:-1 tvg-id="big.ten.network.overflow.2.us" tvg-name="AXS TV HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US143AXSTVHD.png" group-title="體育頻道",AXS TV HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30047
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="BeIN SPORTS EN ESPANOL" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US128BeIN2Sports.png" group-title="體育頻道",BeIN SPORTS EN ESPANOL
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30062
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="BeIN_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US129BeIN_Sports.png" group-title="體育頻道",BeIN_Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30061
+#EXTINF:-1 tvg-id="bein.sports.4.us" tvg-name="BeIN4 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US127BeIN4Sports.png" group-title="體育頻道",BeIN4 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30063
+#EXTINF:-1 tvg-id="bein.sports.5.us" tvg-name="BeIN5 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US126BeIN5Sports.png" group-title="體育頻道",BeIN5 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30064
+#EXTINF:-1 tvg-id="bein.sports.6.us" tvg-name="BeIN6 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US125BeIN6Sports.png" group-title="體育頻道",BeIN6 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30065
+#EXTINF:-1 tvg-id="bein.sports.7.us" tvg-name="BeIN7 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US124BeIN7Sports.png" group-title="體育頻道",BeIN7 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30066
+#EXTINF:-1 tvg-id="bein.sports.8.us" tvg-name="BeIN8 Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US123BeIN8Sports.png" group-title="體育頻道",BeIN8 Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30067
+#EXTINF:-1 tvg-id="bein.sports.us" tvg-name="Bein-Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US009Bein-Sports.png" group-title="體育頻道",Bein-Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3159
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="Big Ten Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US092BigTenNetwork.png" group-title="體育頻道",Big Ten Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3076
+#EXTINF:-1 tvg-id="big.ten.network.us" tvg-name="Big_Ten_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US144Big_Ten_Network.png" group-title="體育頻道",Big_Ten_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30046
+#EXTINF:-1 tvg-id="" tvg-name="Box Nation" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US093BoxNation.png" group-title="體育頻道",Box Nation
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3075
+#EXTINF:-1 tvg-id="eleven.sports.us" tvg-name="Eleven_Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US155Eleven_Sports.png" group-title="體育頻道",Eleven_Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30035
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN-2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US031ESPN-2.png" group-title="體育頻道",ESPN-2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3137
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN-HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US032ESPN-HD.png" group-title="體育頻道",ESPN-HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3136
+#EXTINF:-1 tvg-id="espn.news.us" tvg-name="ESPN-News" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US033ESPN-News.png" group-title="體育頻道",ESPN-News
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3135
+#EXTINF:-1 tvg-id="espn.u.us" tvg-name="ESPN-U" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US034ESPN-U.png" group-title="體育頻道",ESPN-U
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3134
+#EXTINF:-1 tvg-id="" tvg-name="Fight_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US145Fight_Network.png" group-title="體育頻道",Fight_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30045
+#EXTINF:-1 tvg-id="" tvg-name="FNTSY_Sports_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US146FNTSY_Sports_Network.png" group-title="體育頻道",FNTSY_Sports_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30044
+#EXTINF:-1 tvg-id="" tvg-name="Ginx_TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US148Ginx_TV.png" group-title="體育頻道",Ginx_TV
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30042
+#EXTINF:-1 tvg-id="gol.usa.us" tvg-name="GOL TV" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US615GOLTV.png" group-title="體育頻道",GOL TV
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29575
+#EXTINF:-1 tvg-id="big.ten.network.overflow.3.us" tvg-name="Marquee Sports Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US142MarqueeSportsNetwork.png" group-title="體育頻道",Marquee Sports Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30048
+#EXTINF:-1 tvg-id="msg.madison.square.gardens.us" tvg-name="MSG" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US140MSG.png" group-title="體育頻道",MSG
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30050
+#EXTINF:-1 tvg-id="msg.2.us" tvg-name="MSG2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US138MSG2.png" group-title="體育頻道",MSG2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30052
+#EXTINF:-1 tvg-id="msg.plus.us" tvg-name="MSGPlus" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US139MSGPlus.png" group-title="體育頻道",MSGPlus
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30051
+#EXTINF:-1 tvg-id="" tvg-name="NESN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US087NESN.png" group-title="體育頻道",NESN
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3081
+#EXTINF:-1 tvg-id="new.england.sports.network.us" tvg-name="NESN_BOS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US151NESN_BOS.png" group-title="體育頻道",NESN_BOS
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30039
+#EXTINF:-1 tvg-id="new.england.sports.network.plus.us" tvg-name="NESN_PLUS" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US152NESN_PLUS.png" group-title="體育頻道",NESN_PLUS
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30038
+#EXTINF:-1 tvg-id="olympic.us" tvg-name="Olympic_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US122OlympicChannel.png" group-title="體育頻道",Olympic_Channel
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30068
+#EXTINF:-1 tvg-id="pac.12.arizona.us" tvg-name="PAC-12 Arizona" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US346PAC12Arizona.png" group-title="體育頻道",PAC-12 Arizona
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29844
+#EXTINF:-1 tvg-id="pac.12.bay.area.us" tvg-name="PAC-12 Bay Area" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US074PAC-12BayArea.png" group-title="體育頻道",PAC-12 Bay Area
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3094
+#EXTINF:-1 tvg-id="pac.12.la.us" tvg-name="PAC-12 Los Angeles" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US013PAC-12LosAngeles.png" group-title="體育頻道",PAC-12 Los Angeles
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3155
+#EXTINF:-1 tvg-id="pac.12.oregon.us" tvg-name="PAC-12 Oregon" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US014PAC-12Oregon.png" group-title="體育頻道",PAC-12 Oregon
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3154
+#EXTINF:-1 tvg-id="pac.12.washington.us" tvg-name="PAC-12 Washington" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US012PAC-12Washington.png" group-title="體育頻道",PAC-12 Washington
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3156
+#EXTINF:-1 tvg-id="NFLSundayTicket718.us" tvg-name="PPV BOXING 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US660PPVBOXING1.png" group-title="體育頻道",PPV BOXING 1
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/53491
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US662PPVBOXING3.png" group-title="體育頻道",PPV BOXING 3
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29528
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 4" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US663PPVBOXING4.png" group-title="體育頻道",PPV BOXING 4
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29527
+#EXTINF:-1 tvg-id="" tvg-name="PPV BOXING 5" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US664PPVBOXING5.png" group-title="體育頻道",PPV BOXING 5
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29526
+#EXTINF:-1 tvg-id="" tvg-name="PVV BOXING 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US661PVVBOXING2.png" group-title="體育頻道",PVV BOXING 2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29529
+#EXTINF:-1 tvg-id="sec.network.us" tvg-name="Sec Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US091SecNetwork.png" group-title="體育頻道",Sec Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3077
+#EXTINF:-1 tvg-id="" tvg-name="Spectrum SportsNet LA Dodgers" tvg-logo="" group-title="體育頻道",Spectrum SportsNet LA Dodgers
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/49953
+#EXTINF:-1 tvg-id="sportsman.us" tvg-name="Sportsman_Channel" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US153Sportsman_Channel.png" group-title="體育頻道",Sportsman_Channel
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30037
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US135Stadium.png" group-title="體育頻道",Stadium
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30055
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US134Stadium1.png" group-title="體育頻道",Stadium1
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30056
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US133Stadium2.png" group-title="體育頻道",Stadium2
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30057
+#EXTINF:-1 tvg-id="stadium.ktxd.greenville.tx.us" tvg-name="Stadium3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US132Stadium3.png" group-title="體育頻道",Stadium3
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30058
+#EXTINF:-1 tvg-id="tcm.english.bein" tvg-name="TCM" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US137TCM.png" group-title="體育頻道",TCM
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30053
+#EXTINF:-1 tvg-id="the.tennis.us" tvg-name="Tennis" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US086Tennis.png" group-title="體育頻道",Tennis
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3082
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL HD" tvg-logo="" group-title="體育頻道",TENNIS CHANNEL HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/59205
+#EXTINF:-1 tvg-id="" tvg-name="TENNIS CHANNEL UHD" tvg-logo="" group-title="體育頻道",TENNIS CHANNEL UHD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/59200
+#EXTINF:-1 tvg-id="longhorn.network.us" tvg-name="The Longhorn Network HD" tvg-logo="" group-title="體育頻道",The Longhorn Network HD
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/64369
+#EXTINF:-1 tvg-id="tyc.sports.us" tvg-name="TyC Sports" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US136TyCSports.png" group-title="體育頻道",TyC Sports
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30054
+#EXTINF:-1 tvg-id="" tvg-name="UFC 01" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US714UFC01.png" group-title="體育頻道",UFC 01
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29476
+#EXTINF:-1 tvg-id="" tvg-name="UFC 02" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US715UFC02.png" group-title="體育頻道",UFC 02
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29475
+#EXTINF:-1 tvg-id="" tvg-name="UFC 03" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US716UFC03.png" group-title="體育頻道",UFC 03
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29474
+#EXTINF:-1 tvg-id="" tvg-name="UFC 04" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US717UFC04.png" group-title="體育頻道",UFC 04
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29473
+#EXTINF:-1 tvg-id="" tvg-name="UFC 05" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US718UFC05.png" group-title="體育頻道",UFC 05
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29472
+#EXTINF:-1 tvg-id="" tvg-name="UFC Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US084UFCNetwork.png" group-title="體育頻道",UFC Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3084
+#EXTINF:-1 tvg-id="" tvg-name="VSiN" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US147VSiN.png" group-title="體育頻道",VSiN
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30043
+#EXTINF:-1 tvg-id="wfn.world.fishing.network.us" tvg-name="World_Fishing_Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US150World_Fishing_Network.png" group-title="體育頻道",World_Fishing_Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/30040
+#EXTINF:-1 tvg-id="" tvg-name="WRESTLING 01" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US749ABC_knxv_phx.png" group-title="體育頻道",WRESTLING 01
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/29441
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="體育頻道",WWE-Network
+http://ce2.coolmyvip.club:8880/ff2conn331/783f87a3/3083
 #EXTINF:-1 tvg-id="CNW.News" tvg-logo="https://static.epg.best/us/CNBCWorld.us.png" group-title="歐美頻道",CNBC World
 http://edge-1192-ch-gv.filmon.com/live/4130.high.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="IT2.UK" tvg-logo="http://static.epg.best/gb/ITV2.uk.png" group-title="歐美頻道",ITV2
